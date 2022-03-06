@@ -8,7 +8,7 @@
     <tournament name="Tour NO WARMUP" rounds="1" teams="2" locations="3" locationdata="\\w2kserver\Programmers\Sean\outbox\Tools\Rugby Schedule Generation\Network Files\locations.xml" teamdata="\\w2kserver\Programmers\Sean\outbox\Tools\Rugby Schedule Generation\Network Files\teams.xml">
         <locations>
             <location id="0" alias="Brisbane" Index="2" />
-            <location id="1" alias="Perth" Index="31" />
+            <location id="1" alias="Melbourne" Index="61" />
             <location id="2" alias="Australia Stadium" Index="1" />
         </locations>
         <teams>
