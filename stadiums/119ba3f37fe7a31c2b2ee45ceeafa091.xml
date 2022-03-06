@@ -32,7 +32,7 @@
 			<environment type="day" breath="off" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
 			<environment type="night" breath="on" DirtType="Grass" ProbabilityDirt="Medium" ProbabilityPrecipitation="Medium"/>
         </stadium>
-        <stadium Index="6" Active="yes" CodeId="STA_ENG_BRISTOL" StadiumName="Ashton Gate" FileName="bristol" City="1083" HomeTeam="Bristol" FeGfxPackage="bristol" Country="1050" IntroScriptAnthem="" IntroScriptNormal="">
+        <stadium Index="6" Active="yes" CodeId="STA_ENG_BRISTOL" StadiumName="Ashton Gate" FileName="bristol" City="1083" HomeTeam="Bristol" FeGfxPackage="bristol" Country="1050" IntroScriptAnthem="Anthem_Leicester" IntroScriptNormal="intro_Leicester">
 			<environment breath="on" type="overcast" DirtType="Mud" ProbabilityDirt="High" ProbabilityPrecipitation="Very_High"/>
 		</stadium>
         <stadium Index="7" Active="yes" CodeId="STA_ENG_MADEJSKI" StadiumName="Madejski Stadium" FileName="madejski" City="2227" HomeTeam="London Irish" FeGfxPackage="madejski" Country="1050" IntroScriptAnthem="" IntroScriptNormal="">
@@ -161,7 +161,7 @@
 			<environment breath="on" type="night" DirtType="Mud" ProbabilityDirt="High" ProbabilityPrecipitation="Very_High"/>
 			<environment breath="on" type="overcast" DirtType="Mud" ProbabilityDirt="High" ProbabilityPrecipitation="Very_High"/>
 		</stadium>
-        <stadium Index="31" Active="yes" CodeId="STA_AUS_PERTH_SUBIACO" StadiumName="Perth Oval" FileName="perth" City="1039" HomeTeam="Western Force" FeGfxPackage="perthsubiaco" Country="1048">
+        <stadium Index="31" Active="yes" CodeId="STA_AUS_PERTH_SUBIACO" StadiumName="Perth Oval" FileName="perth" City="2247" HomeTeam="Western Force" FeGfxPackage="perthsubiaco" Country="1048">
 			<environment breath="off" type="night" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
 		</stadium>
         <stadium Index="32" Active="yes" CodeId="STA_WAL_MILLENIUM" StadiumName="Millennium Stadium" FileName="millenium" City="2252" HomeTeam="National Team" FeGfxPackage="millenium" Country="1068" IntroScriptAnthem="Anthem_Millennium" IntroScriptNormal="intro_Millennium">
@@ -215,7 +215,7 @@
 			<environment breath="off" type="day" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
 			<environment breath="on" type="night" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
 		</stadium>
-        <stadium Index="42" Active="no" CodeId="STA_FRA_BRIVE" StadiumName="Stade Amedee-Domenech" FileName="Brive" City="2258" HomeTeam="Brive" FeGfxPackage="brive" Country="1052" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="intro_ParcDesPrinces">
+        <stadium Index="42" Active="yes" CodeId="STA_FRA_BRIVE" StadiumName="Stade Marcel-Deflandre" FileName="Brive" City="2258" HomeTeam="Brive" FeGfxPackage="brive" Country="1052" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="intro_ParcDesPrinces">
 			<camera Index="21"/>
 			<camera Index="22"/>
 			<environment type="day" breath="off" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
@@ -316,9 +316,8 @@
 			<environment type="day" breath="off" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
 			<environment type="night" breath="on" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="Low"/>
 		</stadium>
-        <stadium Index="61" Active="yes" CodeId="STA_AUS_MEBANK" StadiumName="Melbourne" FileName="mebank" City="1039" HomeTeam="Western Force" FeGfxPackage="mebank" Country="1048" IntroScriptAnthem="Anthem_Pretoria" IntroScriptNormal="intro_Pretoria">
+        <stadium Index="61" Active="yes" CodeId="STA_AUS_MEBANK" StadiumName="Melbourne" FileName="mebank" City="2247" HomeTeam="Western Force" FeGfxPackage="mebank" Country="1048" IntroScriptAnthem="Anthem_Pretoria" IntroScriptNormal="intro_Pretoria">
 			<camera Index="9"/>
-			<environment type="day" breath="off" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
 			<environment breath="on" type="night" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
 		</stadium>
         <stadium Index="62" Active="yes" CodeId="STA_ASI_SOUTHPACIFIC" StadiumName="Suva" FileName="southpacific" City="1051" HomeTeam="Fiji, Japan, Tonga, Samoa" FeGfxPackage="southpacific" Country="1461" IntroScriptAnthem="Anthem_Pretoria" IntroScriptNormal="intro_Pretoria">
