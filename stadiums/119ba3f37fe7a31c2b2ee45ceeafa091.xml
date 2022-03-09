@@ -41,10 +41,7 @@
 			<environment breath="on" type="night" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="Medium"/>
 		</stadium>
         <stadium Index="8" Active="yes" CodeId="STA_ENG_LEICESTER" StadiumName="Welford Road" FileName="welfordroad" City="2228" HomeTeam="Leicester" FeGfxPackage="leicester" Country="1050" IntroScriptAnthem="Anthem_Leicester" IntroScriptNormal="intro_Leicester">
-			<environment breath="off" type="day" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
-			<environment breath="on" type="night" DirtType="Grass" ProbabilityDirt="Medium" ProbabilityPrecipitation="Medium"/>
 			<environment breath="on" type="overcast" DirtType="Mud" ProbabilityDirt="High" ProbabilityPrecipitation="Very_High"/>
-			<environment breath="on" type="cold" DirtType="Grass" ProbabilityDirt="Medium" ProbabilityPrecipitation="None"/>
 		</stadium>
         <stadium Index="9" Active="yes" CodeId="STA_ENG_BATH" StadiumName="Recreation Ground" FileName="bath" City="2229" HomeTeam="Bath" FeGfxPackage="bath" Country="1050" IntroScriptAnthem="Anthem_Bath" IntroScriptNormal="intro_Bath">
 			<camera Index="14"/>
@@ -53,9 +50,7 @@
         <stadium Index="10" Active="yes" CodeId="STA_ENG_NORTHAMPTON" StadiumName="Franklin's Gardens" FileName="northampton" City="2230" HomeTeam="Northampton" FeGfxPackage="northampton" Country="1050" IntroScriptAnthem="Anthem_Northampton" IntroScriptNormal="intro_Northampton">
 			<camera Index="49"/>
 			<camera Index="50"/>
-			<environment breath="off" type="day" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
 			<environment breath="on" type="night" DirtType="Grass" ProbabilityDirt="Medium" ProbabilityPrecipitation="Medium"/>
-			<environment breath="on" type="overcast" DirtType="Mud" ProbabilityDirt="High" ProbabilityPrecipitation="Very_High"/>
 		</stadium>
         <stadium Index="11" Active="yes" CodeId="STA_ENG_NEWCASTLE" StadiumName="Kingston Park" FileName="newcastle" City="2231" HomeTeam="Newcastle" FeGfxPackage="newcastle" Country="1050" IntroScriptAnthem="Anthem_Newcastle" IntroScriptNormal="intro_Newcastle">
 			<camera Index="46"/>
@@ -128,10 +123,7 @@
         <stadium Index="24" Active="yes" CodeId="STA_IRE_IRISHPARK" StadiumName="Thomond Park" FileName="irishpark" City="2240" HomeTeam="Munster" FeGfxPackage="irishpark" Country="1054" IntroScriptAnthem="Anthem_Irish_club" IntroScriptNormal="intro_Irish_club">
 			<camera Index="37"/>
 			<camera Index="38"/>
-			<environment breath="off" type="day" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
-			<environment breath="on" type="night" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
 			<environment breath="on" type="overcast" DirtType="Mud" ProbabilityDirt="High" ProbabilityPrecipitation="Very_High"/>
-			<environment breath="on" type="cold" DirtType="Grass" ProbabilityDirt="Medium" ProbabilityPrecipitation="None"/>
 		</stadium>
 		<stadium Index="25" Active="yes" CodeId="STA_IRE_DUBLIN" StadiumName="Aviva Stadium" FileName="lansdownroad" City="2241" HomeTeam="National Team" FeGfxPackage="dublin" Country="1054" IntroScriptAnthem="Anthem_Dublin" IntroScriptNormal="intro_Dublin">
 			<camera Index="78"/>
@@ -350,7 +342,6 @@
 			<camera Index="86"/>
 			<camera Index="87"/>
 			<environment breath="off" type="day" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
-			<environment breath="on" type="night" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="Low"/>
 		</stadium>
         <stadium Index="67" Active="yes" CodeId="STA_FRA_YVES" StadiumName="La Defense Arena" FileName="Yves" City="1036" HomeTeam="Racing Metro" FeGfxPackage="yves" Country="1052" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="intro_ParcDesPrinces">
 			<environment type="night" breath="off" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>			
