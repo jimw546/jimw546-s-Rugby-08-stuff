@@ -184,7 +184,7 @@
 			<camera Index="20"/>
 			<environment breath="on" type="overcast" DirtType="Mud" ProbabilityDirt="Medium" ProbabilityPrecipitation="High"/>
 		</stadium>
-        <stadium Index="37" Active="yes" CodeId="STA_SAF_BLOEMFONTAIN" StadiumName="Loftus Versfeld" FileName="bloemfontain" City="2257" HomeTeam="Cheetahs" FeGfxPackage="bloemfontain" Country="1063">
+        <stadium Index="37" Active="yes" CodeId="STA_SAF_BLOEMFONTAIN" StadiumName="Free State Stadium" FileName="bloemfontain" City="2257" HomeTeam="Cheetahs" FeGfxPackage="bloemfontain" Country="1063">
 			<camera Index="18"/>
 			<camera Index="19"/>
 			<camera Index="20"/>
@@ -277,7 +277,6 @@
 			<camera Index="53"/>
 			<camera Index="54"/>
 			<camera Index="55"/>
-			<environment breath="off" type="day" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
 			<environment breath="on" type="night" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
 		</stadium>
         <stadium Index="56" Active="yes" CodeId="STA_SAF_CAPETOWN" StadiumName="Cape Town" FileName="capetown" City="2263" HomeTeam="Stormers" FeGfxPackage="capetown" Country="1063" IntroScriptAnthem="Anthem_Capetown" IntroScriptNormal="intro_Capetown">
