@@ -207,7 +207,7 @@
 			<environment breath="off" type="day" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
 			<environment breath="on" type="night" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
 		</stadium>
-        <stadium Index="42" Active="yes" CodeId="STA_FRA_BRIVE" StadiumName="Stade Marcel-Deflandre" FileName="Brive" City="2258" HomeTeam="Brive" FeGfxPackage="brive" Country="1052" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="intro_ParcDesPrinces">
+        <stadium Index="42" Active="no" CodeId="STA_FRA_BRIVE" StadiumName="Stade Marcel-Deflandre" FileName="Brive" City="2258" HomeTeam="Brive" FeGfxPackage="brive" Country="1052" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="intro_ParcDesPrinces">
 			<camera Index="21"/>
 			<camera Index="22"/>
 			<environment type="day" breath="off" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
