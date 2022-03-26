@@ -536,7 +536,7 @@
 	<stadium name="stadedefrance.day">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_France"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
-		<SixNations 		ads="World_Cup\France_NonWC"		pads="Tournaments\Six_Nations"/>
+		<SixNations 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_France"/>
 	</stadium>
 	<stadium name="stadedefrance.night">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_France"/>
@@ -546,7 +546,7 @@
 	<stadium name="stadedefrance.overcast">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_France"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
-		<SixNations 		ads="World_Cup\France_NonWC"		pads="Tournaments\Six_Nations"/>
+		<SixNations 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_France"/>
 	</stadium>
 	<stadium name="stadedegerland.night">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_Gerland"/>
