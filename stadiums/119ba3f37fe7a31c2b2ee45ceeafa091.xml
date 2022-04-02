@@ -52,11 +52,11 @@
 			<camera Index="50"/>
 			<environment breath="on" type="night" DirtType="Grass" ProbabilityDirt="Medium" ProbabilityPrecipitation="Medium"/>
 		</stadium>
-        <stadium Index="11" Active="yes" CodeId="STA_ENG_NEWCASTLE" StadiumName="Kingston Park" FileName="newcastle" City="2231" HomeTeam="Newcastle" FeGfxPackage="newcastle" Country="1050" IntroScriptAnthem="Anthem_Newcastle" IntroScriptNormal="intro_Newcastle">
+        <stadium Index="11" Active="yes" CodeId="STA_ENG_NEWCASTLE" StadiumName="Sandy Park" FileName="newcastle" City="2231" HomeTeam="Newcastle" FeGfxPackage="newcastle" Country="1050" IntroScriptAnthem="Anthem_newcastle" IntroScriptNormal="intro_newcastle">
 			<camera Index="46"/>
 			<camera Index="47"/>
+			<environment breath="off" type="day" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
 			<environment breath="on" type="night" DirtType="Grass" ProbabilityDirt="Medium" ProbabilityPrecipitation="High"/>
-			<environment breath="on" type="cold" DirtType="Grass" ProbabilityDirt="Medium" ProbabilityPrecipitation="None"/>
 		</stadium>
         <stadium Index="12" Active="yes" CodeId="STA_ENG_GLOUCESTER" StadiumName="Kingsholm" FileName="gloucester" City="2232" HomeTeam="Gloucester" FeGfxPackage="gloucester" Country="1050" IntroScriptAnthem="Anthem_Gloucester" IntroScriptNormal="intro_Gloucester">
 			<camera Index="28"/>
