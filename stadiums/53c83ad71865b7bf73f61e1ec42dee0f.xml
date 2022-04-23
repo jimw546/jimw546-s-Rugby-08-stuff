@@ -20,7 +20,7 @@
 <stadium name="capetown.day" 			splashes="1" atmosphere="1" stadium="1" pins="1" flares="1" flashes="7" floods="1" sun_flares="15"/>
 <stadium name="capetown.night" 			splashes="1" atmosphere="10" stadium="285" pins="80" flares="5" flashes="15" floods="1" sun_flares="1"/>
 <stadium name="capetown.overcast" 		splashes="180" atmosphere="15" stadium="130" pins="50" flares="1" flashes="10" floods="1" sun_flares="1"/>
-<stadium name="cardiff.overcast" 		splashes="180" atmosphere="16" stadium="150" pins="80" flares="1" flashes="5" floods="1" sun_flares="1"/>
+<stadium name="cardiff.overcast" 		splashes="10" atmosphere="16" stadium="54" pins="80" flares="1" flashes="5" floods="1" sun_flares="1"/>
 <stadium name="castres.night"		        splashes="180" atmosphere="9" stadium="52" pins="1" flares="1" flashes="7" floods="1" sun_flares="1"/>
 <stadium name="christchurch.day" 		splashes="1" atmosphere="1" stadium="1" pins="1" flares="1" flashes="9" floods="1" sun_flares="15"/>
 <stadium name="christchurch.night" 		splashes="1" atmosphere="15" stadium="75" pins="140" flares="1" flashes="9" floods="1" sun_flares="1"/>
@@ -164,3 +164,5 @@
 <stadium name="Thomond.day" 		 	splashes="1" atmosphere="5" stadium="275" pins="55" flares="54" flashes="7" floods="1" sun_flares="15"/>
 <stadium name="Thomond.night" 			splashes="180" atmosphere="11" stadium="54" pins="1" flares="1" flashes="7" floods="1" sun_flares="1"/>
 <stadium name="Thomond.overcast"	 	splashes="180" atmosphere="23" stadium="108" pins="1" flares="1" flashes="5" floods="1" sun_flares="1"/>
+<stadium name="LaRochelle.day" 		        splashes="1" atmosphere="1" stadium="1" pins="1" flares="1" flashes="9" floods="1" sun_flares="15"/>
+<stadium name="LaRochelle.night" 		splashes="180" atmosphere="35" stadium="160" pins="25" flares="1" flashes="5" floods="1" sun_flares="1"/>

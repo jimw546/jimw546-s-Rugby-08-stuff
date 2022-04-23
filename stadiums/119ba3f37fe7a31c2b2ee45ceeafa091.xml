@@ -207,11 +207,9 @@
 			<environment breath="off" type="day" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
 			<environment breath="on" type="night" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
 		</stadium>
-        <stadium Index="42" Active="no" CodeId="STA_FRA_BRIVE" StadiumName="Stade Marcel-Deflandre" FileName="Brive" City="2258" HomeTeam="Brive" FeGfxPackage="brive" Country="1052" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="intro_ParcDesPrinces">
-			<camera Index="21"/>
-			<camera Index="22"/>
-			<environment type="day" breath="off" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
-			<environment type="night" breath="on" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="Medium"/>
+		<stadium Index="42" Active="yes" CodeId="STA_FRA_ROCHELLLE" StadiumName="Stade Marcel Deflandre" FileName="LaRochelle" City="2258" HomeTeam="La Rochelle" FeGfxPackage="larochelle" Country="1052" IntroScriptAnthem="Anthem_newcastle" IntroScriptNormal="intro_newcastle">
+			<environment breath="off" type="day" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
+			<camera Index="56"/>
 		</stadium>
 		<stadium Index="43" Active="yes" CodeId="STA_AME_BUENOSAIRES" StadiumName="Estadio Jose Amalfitani" FileName="buenosaires" City="2257" HomeTeam="National Team" FeGfxPackage="buenosaires" Country="1047" IntroScriptAnthem="Anthem_Paris" IntroScriptNormal="intro_Paris">
         		<camera Index="5"/>
