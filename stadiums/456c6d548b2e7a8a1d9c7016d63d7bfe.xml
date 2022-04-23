@@ -999,7 +999,7 @@
 		<EuropeanTrophy		ads="Standard\Ireland_Standard"		pads="Tournaments\European"/>
 	</stadium>
 	<stadium name="LaRochelle.day">
-		<default 		ads="World_Cup\France_NonWC_F"		pads="Standard\Le_Parc"/>
+		<default 		ads="World_Cup\France_NonWC_F"		pads="Standard\LaRochelle"/>
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\France_NonWC_F"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="World_Cup\France_NonWC_F"		pads="Tournaments\European"/>
