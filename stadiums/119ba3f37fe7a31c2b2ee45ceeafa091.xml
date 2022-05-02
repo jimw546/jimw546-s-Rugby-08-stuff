@@ -369,11 +369,8 @@
 			<environment breath="on" type="night" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="Low"/>
 			<environment breath="on" type="overcast" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="Low"/>
 		</stadium>
-	<stadium Index="74" Active="no" CodeId="STA_IRE_MUNSTER" StadiumName="Thomond Park2" FileName="Thomond" City="1042" HomeTeam="National Team" FeGfxPackage="thomond" Country="1054" IntroScriptAnthem="Anthem_Stadium_Oz" IntroScriptNormal="intro_Stadium_Oz">
-			<camera Index="3"/>
-			<camera Index="4"/>			
-			<environment type="day" breath="off" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
-			<environment type="night" breath="on" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="Low"/>
+	<stadium Index="74" Active="yes" CodeId="STA_EDINBURGH" StadiumName="Edinburgh" FileName="Edinburgh" City="1042" HomeTeam="Edinburgh" FeGfxPackage="Edinburgh" Country="1062" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="Anthem_ParcDesPrinces">
+			<camera Index="72"/>
 			<environment type="overcast" breath="on" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="Medium"/>
 		</stadium>
         <stadium Index="75" Active="yes" CodeId="STA_ENG_EDGELEYPARK" StadiumName="Salford City Stadium" FileName="edgeleypark" City="2268" HomeTeam="National Team" FeGfxPackage="edgeleypark" Country="1050" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="intro_ParcDesPrinces">

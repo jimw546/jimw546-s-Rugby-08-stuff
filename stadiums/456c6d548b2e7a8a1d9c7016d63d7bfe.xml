@@ -1004,6 +1004,11 @@
 		<WorldLeague		ads="World_Cup\France_NonWC_F"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="World_Cup\France_NonWC_F"		pads="Tournaments\European"/>
 	</stadium>
+		<stadium name="edinburgh.overcast">
+		<default 		ads="Standard\Scotland_Standard"	pads="Standard\Edinburgh"/>
+		<WorldLeague		ads="Standard\Scotland_Standard"	pads="Tournaments\World_League"/>
+		<EuropeanTrophy		ads="Standard\Scotland_Standard"	pads="Tournaments\European"/>
+	</stadium>
 </stadiums>
 
 

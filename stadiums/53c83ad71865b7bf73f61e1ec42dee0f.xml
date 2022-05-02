@@ -166,3 +166,7 @@
 <stadium name="Thomond.overcast"	 	splashes="180" atmosphere="23" stadium="108" pins="1" flares="1" flashes="5" floods="1" sun_flares="1"/>
 <stadium name="LaRochelle.day" 		        splashes="1" atmosphere="1" stadium="1" pins="1" flares="1" flashes="9" floods="1" sun_flares="15"/>
 <stadium name="LaRochelle.night" 		splashes="180" atmosphere="35" stadium="160" pins="25" flares="1" flashes="5" floods="1" sun_flares="1"/>
+<stadium name="edinburgh.day" 		        splashes="1" atmosphere="1" stadium="1" pins="1" flares="1" flashes="9" floods="1" sun_flares="15"/>
+<stadium name="edinburgh.night" 			splashes="180" atmosphere="35" stadium="160" pins="25" flares="1" flashes="5" floods="1" sun_flares="1"/>
+<stadium name="edinburgh.overcast" 		splashes="180" atmosphere="10" stadium="35" pins="15" flares="1" flashes="5" floods="1" sun_flares="1"/>
+<stadium name="edinburgh.cold"	 		splashes="180" atmosphere="10" stadium="575" pins="15" flares="1" flashes="1800" floods="1" sun_flares="1"/>
