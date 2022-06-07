@@ -9,11 +9,11 @@
         <locations>
 <location id="0" alias="Stade de France" Index="70" />
 <location id="1" alias="Velodrome" Index="68" />
-<location id="2" alias="Lyon" Index="72" />
-<location id="3" alias="Lille" Index="69" />
-<location id="4" alias="Bordeaux" Index="22" />
-<location id="5" alias="Etienne" Index="23" />
-<location id="6" alias="Nice" Index="64" />
+<location id="2" alias="Lyon" Index="77" />
+<location id="3" alias="Lille" Index="16" />
+<location id="4" alias="Bordeaux" Index="15" />
+<location id="5" alias="Etienne" Index="21" />
+<location id="6" alias="Nice" Index="19" />
 <location id="7" alias="Nantes" Index="65" />
 <location id="8" alias="Toulouse" Index="73" />
 
@@ -49,7 +49,7 @@
         <round id="0">
             <pool games="10" id="0">
                 <game id="0" location="0" hometeam="1" awayteam="0" year="2023" month="9" day="1" environment="0" />
-                <game id="1" location="5" hometeam="2" awayteam="4" year="2023" month="9" day="2" environment="1" />
+                <game id="1" location="5" hometeam="2" awayteam="4" year="2023" month="9" day="2" environment="0" />
                 <game id="2" location="3" hometeam="1" awayteam="3" year="2023" month="9" day="7" environment="0" />
                 <game id="3" location="8" hometeam="0" awayteam="4" year="2023" month="9" day="8" environment="0" />
                 <game id="4" location="6" hometeam="2" awayteam="3" year="2023" month="9" day="13" environment="0" />
@@ -64,11 +64,11 @@
                 <game id="1" location="1" hometeam="5" awayteam="7" year="2023" month="9" day="3" environment="0" />
                 <game id="2" location="7" hometeam="6" awayteam="8" year="2023" month="9" day="9" environment="0" />
                 <game id="3" location="4" hometeam="5" awayteam="9" year="2023" month="9" day="10" environment="0" />
-                <game id="4" location="0" hometeam="5" awayteam="6" year="2023" month="9" day="16" environment="1" />
+                <game id="4" location="0" hometeam="5" awayteam="6" year="2023" month="9" day="16" environment="0" />
                 <game id="5" location="6" hometeam="7" awayteam="8" year="2023" month="9" day="17" environment="0" />
                 <game id="6" location="3" hometeam="7" awayteam="9" year="2023" month="9" day="23" environment="0" />
-                <game id="7" location="1" hometeam="5" awayteam="8" year="2023" month="9" day="24" environment="1" />
-                <game id="8" location="0" hometeam="6" awayteam="7" year="2023" month="9" day="30" environment="1" />
+                <game id="7" location="1" hometeam="5" awayteam="8" year="2023" month="9" day="24" environment="0" />
+                <game id="8" location="0" hometeam="6" awayteam="7" year="2023" month="9" day="30" environment="0" />
                 <game id="9" location="3" hometeam="8" awayteam="9" year="2023" month="9" day="30" environment="0" />
             </pool>
             <pool games="10" id="2">
@@ -78,22 +78,22 @@
                 <game id="3" location="5" hometeam="11" awayteam="12" year="2023" month="9" day="10" environment="0" />
                 <game id="4" location="8" hometeam="13" awayteam="14" year="2023" month="9" day="16" environment="0" />
                 <game id="5" location="2" hometeam="10" awayteam="11" year="2023" month="9" day="17" environment="0" />
-                <game id="6" location="4" hometeam="12" awayteam="13" year="2023" month="9" day="23" environment="1" />
+                <game id="6" location="4" hometeam="12" awayteam="13" year="2023" month="9" day="23" environment="0" />
                 <game id="7" location="5" hometeam="11" awayteam="14" year="2023" month="9" day="24" environment="0" />
                 <game id="8" location="7" hometeam="10" awayteam="13" year="2023" month="9" day="30" environment="0" />
                 <game id="9" location="8" hometeam="12" awayteam="14" year="2023" month="9" day="30" environment="0" />
             </pool>
             <pool games="10" id="3">
-                <game id="0" location="1" hometeam="15" awayteam="17" year="2023" month="9" day="2" environment="1" />
+                <game id="0" location="1" hometeam="15" awayteam="17" year="2023" month="9" day="2" environment="0" />
                 <game id="1" location="8" hometeam="16" awayteam="19" year="2023" month="9" day="3" environment="0" />
                 <game id="2" location="4" hometeam="18" awayteam="19" year="2023" month="9" day="9" environment="0" />
-                <game id="3" location="6" hometeam="15" awayteam="16" year="2023" month="9" day="10" environment="1" />
+                <game id="3" location="6" hometeam="15" awayteam="16" year="2023" month="9" day="10" environment="0" />
                 <game id="4" location="5" hometeam="17" awayteam="18" year="2023" month="9" day="15" environment="0" />
                 <game id="5" location="3" hometeam="15" awayteam="19" year="2023" month="9" day="16" environment="0" />
                 <game id="6" location="8" hometeam="16" awayteam="18" year="2023" month="9" day="21" environment="0" />
                 <game id="7" location="7" hometeam="17" awayteam="19" year="2023" month="9" day="23" environment="0" />
                 <game id="8" location="3" hometeam="15" awayteam="18" year="2023" month="9" day="30" environment="0" />
-                <game id="9" location="7" hometeam="16" awayteam="17" year="2023" month="9" day="30" environment="1" />
+                <game id="9" location="7" hometeam="16" awayteam="17" year="2023" month="9" day="30" environment="0" />
             </pool>
         </round>
     </tournament>
