@@ -170,3 +170,10 @@
 <stadium name="edinburgh.night" 			splashes="180" atmosphere="35" stadium="160" pins="25" flares="1" flashes="5" floods="1" sun_flares="1"/>
 <stadium name="edinburgh.overcast" 		splashes="180" atmosphere="10" stadium="35" pins="15" flares="1" flashes="5" floods="1" sun_flares="1"/>
 <stadium name="edinburgh.cold"	 		splashes="180" atmosphere="10" stadium="575" pins="15" flares="1" flashes="1800" floods="1" sun_flares="1"/>
+<stadium name="Lyon.overcast" 		splashes="180" atmosphere="10" stadium="35" pins="15" flares="1" flashes="5" floods="1" sun_flares="1"/>
+<stadium name="Nice.day" 			splashes="1" atmosphere="1" stadium="1" pins="1" flares="1" flashes="11" floods="1" sun_flares="15"/>
+<stadium name="Lille.night" 			splashes="1" atmosphere="1" stadium="1" pins="1" flares="1" flashes="11" floods="1" sun_flares="15"/>
+<stadium name="stetienne.overcast" 		splashes="180" atmosphere="10" stadium="35" pins="15" flares="1" flashes="5" floods="1" sun_flares="1"/>
+<stadium name="Bordeaux.overcast" 		splashes="180" atmosphere="10" stadium="35" pins="15" flares="1" flashes="5" floods="1" sun_flares="1"/>
+
+

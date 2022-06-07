@@ -77,39 +77,36 @@
 			<environment type="night" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None" breath="on"/>
 			<environment type="overcast" DirtType="Mud" ProbabilityDirt="Low" ProbabilityPrecipitation="Low" breath="on"/>
 		</stadium>
-        <stadium Index="15" Active="no" CodeId="STA_NZL_INVERCARGILL" StadiumName="Invercargill" FileName="Invercargill" City="2222" HomeTeam="Highlanders" FeGfxPackage="invercargill" Country="1058" IntroScriptAnthem="Anthem_Dunedin" IntroScriptNormal="intro_Dunedin">
-			<environment type="day" breath="off" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
-			<environment type="night" breath="on" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
+        <stadium Index="15" Active="yes" CodeId="STA_FRA_BORDEAUX" StadiumName="Stade de Bordeaux" FileName="Bordeaux" City="1042" HomeTeam="National Team" FeGfxPackage="Lille" Country="1052" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="Anthem_ParcDesPrinces">
+			<camera Index="2"/>
+			<environment type="overcast" breath="on" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
 		</stadium>
-	  <stadium Index="16" Active="no" CodeId="STA_SAF_KIMBERLEY" StadiumName=" Kimberley Griqua Park" FileName="Kimberley" City="1046" HomeTeam="Cheetahs" FeGfxPackage="kimberley" Country="1063">
-			<camera Index="18"/>
-			<camera Index="19"/>
-			<camera Index="20"/>
-			<environment type="day" breath="off" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
+	  <stadium Index="16" Active="yes" CodeId="STA_FRA_LILLE" StadiumName="Stade Pierre-Mauroy" FileName="Lille" City="1042" HomeTeam="National Team" FeGfxPackage="Lille" Country="1052" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="Anthem_ParcDesPrinces">
+			<camera Index="2"/>
+			<environment type="night" breath="on" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
 		</stadium>
 	  <stadium Index="17" Active="yes" CodeId="STA_IRE_LEINSTER" StadiumName="RDS Arena" FileName="Leinster" City="2235" HomeTeam="Leinster" FeGfxPackage="leinster" Country="1054">
 			<environment breath="on" type="overcast" DirtType="Mud" ProbabilityDirt="High" ProbabilityPrecipitation="Very_High"/>
 			<environment breath="on" type="cold" DirtType="Mud" ProbabilityDirt="High" ProbabilityPrecipitation="None"/>
 		</stadium>
-        <stadium Index="18" Active="yes" CodeId="STA_IRE_ULSTER" StadiumName="Ravenhill Stadium" FileName="Ulster" City="2236" HomeTeam="Ulster" FeGfxPackage="ulster" Country="1054">
+        <stadium Index="18" Active="yes" CodeId="STA_IRE_ULSTER" StadiumName="Ravenhill Stadium" FileName="Ulster" City="2236" HomeTeam="Ulster" FeGfxPackage="ulster" Country="1054" IntroScriptAnthem="Anthem_Irish_club" IntroScriptNormal="intro_Irish_club">
 			<camera Index="86"/>
 			<camera Index="87"/>
 			<environment breath="on" type="overcast" DirtType="Grass" ProbabilityDirt="High" ProbabilityPrecipitation="High"/>
 		</stadium>
-	  <stadium Index="19" Active="No" CodeId="STA_NZL_PALMERSTON" StadiumName="Arena Manawatu" FileName="Palmerston" City="1045" HomeTeam="Highlanders" FeGfxPackage="palmerston" Country="1058" IntroScriptAnthem="Anthem_Dunedin" IntroScriptNormal="intro_Dunedin">
-			<environment breath="off" type="day" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
-			<environment breath="on" type="night" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="Medium"/>
+	  <stadium Index="19" Active="yes" CodeId="STA_FRA_NICE" StadiumName="Stade de Nice" FileName="Nice" City="1042" HomeTeam="National Team" FeGfxPackage="Nice" Country="1052" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="Anthem_ParcDesPrinces">
+			<camera Index="72"/>
+			<environment type="day" breath="off" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
 		</stadium>
 	  <stadium Index="20" Active="yes" CodeId="STA_FRA_LEPARC" StadiumName="Parc des Sports Aguilera" FileName="leparc" City="2237" HomeTeam="Biarritz" FeGfxPackage="leparc" Country="1052" IntroScriptAnthem="Anthem_France_country" IntroScriptNormal="intro_France_country">
         		<camera Index="40"/>
 			<environment breath="on" type="day" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
 			<environment breath="on" type="night" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
 		</stadium>
-	  <stadium Index="21" Active="no" CodeId="STA_NZL_YARROW" StadiumName="Yarrow Stadium" FileName="Yarrow" City="1035" HomeTeam="Hurricanes" FeGfxPackage="yarrow" Country="1058" IntroScriptAnthem="Anthem_Dunedin" IntroScriptNormal="intro_Dunedin">
+	  <stadium Index="21" Active="yes" CodeId="STA_FRA_STETIENNE" StadiumName="Stade Geoffroy-Guichard" FileName="stetienne" City="1042" HomeTeam="National Team" FeGfxPackage="stetienne" Country="1052" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="Anthem_ParcDesPrinces">
 			<camera Index="80"/>
 			<camera Index="81"/>
-			<environment breath="off" type="day" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
-			<environment breath="on" type="night" DirtType="Grass" ProbabilityDirt="Medium" ProbabilityPrecipitation="Medium"/>
+			<environment breath="off" type="overcast" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="Low"/>
 		</stadium>
 	  <stadium Index="22" Active="yes" CodeId="STA_FRA_BOURGOIN" StadiumName="Stade Chaban-Delmas" FileName="bourgoin" City="2238" HomeTeam="Bourgoin" FeGfxPackage="bourgoin" Country="1052" IntroScriptAnthem="" IntroScriptNormal="">
 			<camera Index="1"/>
@@ -190,7 +187,7 @@
 			<camera Index="20"/>
 			<environment type="day" breath="off" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
 		</stadium>
-        <stadium Index="38" Active="yes" CodeId="STA_GEO_TIBILISI" StadiumName="Boris Paichadze Stadium" FileName="tibilisi" City="2196" HomeTeam="Georgia, Romania" FeGfxPackage="tiblisi" Country="1053" IntroScriptAnthem="Anthem_Millennium" IntroScriptNormal="intro_Millennium">
+        <stadium Index="38" Active="yes" CodeId="STA_GEO_TIBILISI" StadiumName="Mikheil Meskhi Stadium" FileName="tibilisi" City="2196" HomeTeam="Georgia, Romania" FeGfxPackage="tiblisi" Country="1053" IntroScriptAnthem="Anthem_Millennium" IntroScriptNormal="intro_Millennium">
 			<environment breath="on" type="overcast" DirtType="Grass" ProbabilityDirt="Medium" ProbabilityPrecipitation="High"/>
 		</stadium>
 		<stadium Index="39" Active="yes" CodeId="STA_ITA_ROME" StadiumName="Stadio Olimpico" FileName="Rome" City="2255" HomeTeam="National Team" FeGfxPackage="rome" Country="1055" IntroScriptAnthem="Anthem_Rome" IntroScriptNormal="intro_Rome">
@@ -355,7 +352,7 @@
 			<environment type="night" breath="on" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
 			<environment type="overcast" breath="on" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
 		</stadium>
-        <stadium Index="71" Active="no" CodeId="STA_FRA_STADEFELIX" StadiumName="Stade Felix Mayol" FileName="Felix" City="1081" HomeTeam="Toulon" FeGfxPackage="felix" Country="1052" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="intro_ParcDesPrinces">
+        <stadium Index="71" Active="no" CodeId="STA_FRA_TOULON" StadiumName="Stade Felix Mayol" FileName="Felix" City="1081" HomeTeam="Toulon" FeGfxPackage="felix" Country="1052" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="intro_ParcDesPrinces">
 			<camera Index="46"/>
 			<camera Index="47"/>			
 			<environment type="day" breath="off" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>			
@@ -393,6 +390,10 @@
 			<camera Index="88"/>
 			<camera Index="89"/>
 			<environment breath="on" type="overcast" DirtType="Mud" ProbabilityDirt="High" ProbabilityPrecipitation="Very_High"/>
+		</stadium>
+		<stadium Index="77" Active="yes" CodeId="STA_FRA_LYON" StadiumName="OL Stadium" FileName="Lyon" City="1042" HomeTeam="National Team" FeGfxPackage="Lyon" Country="1052" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="Anthem_ParcDesPrinces">
+			<camera Index="72"/>
+			<environment type="overcast" breath="on" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="Medium"/>
 		</stadium>
     </Project>
 </hbstool>
