@@ -16,14 +16,14 @@
 	<stadium name="auckland.day">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Auckland"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
+		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations_NZ"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="auckland.night">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Auckland"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
+		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations_NZ"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
@@ -36,13 +36,13 @@
 	<stadium name="bloemfontain.day">
 		<default 		ads="Scrolling\South_Africa_Scrolling"	pads="Standard\Bloemfontain"/>
 		<Super14 		ads="Scrolling\SA_Super14_Scrolling"	pads="Standard\Bloemfontain"/>
-		<TriNations		ads="Scrolling\South_Africa_Scrolling"	pads="Standard\Bloemfontain"/>
+		<TriNations		ads="Scrolling\South_Africa_Scrolling"	pads="Tournaments\Tri_Nations_SA"/>
 		<WorldLeague		ads="Scrolling\South_Africa_Scrolling"	pads="Tournaments\World_League"/>
 	</stadium>
 	<stadium name="bloemfontain.night">
 		<default 		ads="Scrolling\South_Africa_Scrolling"	pads="Standard\Bloemfontain"/>
 		<Super14 		ads="Scrolling\SA_Super14_Scrolling"	pads="Standard\Bloemfontain"/>
-		<TriNations		ads="Scrolling\South_Africa_Scrolling"	pads="Standard\Bloemfontain"/>
+		<TriNations		ads="Scrolling\South_Africa_Scrolling"	pads="Tournaments\Tri_Nations_SA"/>
 		<WorldLeague		ads="Scrolling\South_Africa_Scrolling"	pads="Tournaments\World_League"/>
 	</stadium>
 	<stadium name="bourgoin.day">
@@ -54,7 +54,7 @@
 	<stadium name="brisbane.day">
 		<default 		ads="Scrolling\Australia_Scrolling"	pads="Standard\Brisbane"/>
 		<Super14 		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Tri_Nations"/>
+		<TriNations		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Tri_Nations_AU"/>
 		<WorldLeague		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
                 
@@ -89,32 +89,32 @@
 	<stadium name="buenosaires.overcast">
 		<default 		ads="Scrolling\South_America_Scrolling"	pads="Standard\Buenos_Aires"/>
                 <Super14 		ads="Scrolling\South_America_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\South_America_Scrolling"	pads="Tournaments\Tri_Nations"/>
+		<TriNations		ads="Scrolling\South_America_Scrolling"	pads="Tournaments\Tri_Nations_AR"/>
                 <WorldLeague		ads="Scrolling\South_America_Scrolling"	pads="Tournaments\World_League"/>
 	</stadium>
 	<stadium name="canberra.night">
 		<default 		ads="Scrolling\Australia_Scrolling"	pads="Standard\Canberra"/>
 		<Super14 		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Tri_Nations"/>
+		<TriNations		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Tri_Nations_AU"/>
 		<WorldLeague		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="capetown.day">
 		<default 		ads="Scrolling\South_Africa_Scrolling2"	pads="Standard\Capetown"/>
 		<Super14 		ads="Scrolling\SA_Super14_Scrolling"	pads="Standard\Capetown"/>
-		<TriNations		ads="Scrolling\South_Africa_Scrolling2"	pads="Standard\Capetown"/>
+		<TriNations		ads="Scrolling\South_Africa_Scrolling2"	pads="Tournaments\Tri_Nations_SA"/>
 		<WorldLeague		ads="Scrolling\South_Africa_Scrolling2"	pads="Tournaments\World_League"/>
 	</stadium>
 	<stadium name="capetown.night">
 		<default 		ads="Scrolling\South_Africa_Scrolling2"	pads="Standard\Capetown"/>
 		<Super14 		ads="Scrolling\SA_Super14_Scrolling"	pads="Standard\Capetown"/>
-		<TriNations		ads="Scrolling\South_Africa_Scrolling2"	pads="Standard\Capetown"/>
+		<TriNations		ads="Scrolling\South_Africa_Scrolling2"	pads="Tournaments\Tri_Nations_SA"/>
 		<WorldLeague		ads="Scrolling\South_Africa_Scrolling2"	pads="Tournaments\World_League"/>
 	</stadium>
 	<stadium name="capetown.overcast">
 		<default 		ads="Scrolling\South_Africa_Scrolling2"	pads="Standard\Capetown"/>
 		<Super14 		ads="Scrolling\SA_Super14_Scrolling"	pads="Standard\Capetown"/>
-		<TriNations		ads="Scrolling\South_Africa_Scrolling2"	pads="Standard\Capetown"/>
+		<TriNations		ads="Scrolling\South_Africa_Scrolling2"	pads="Tournaments\Tri_Nations_SA"/>
 		<WorldLeague		ads="Scrolling\South_Africa_Scrolling2"	pads="Tournaments\World_League"/>
 	</stadium>
 	<stadium name="cardiff.overcast">
@@ -131,14 +131,14 @@
 	<stadium name="christchurch.day">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Christchurch"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
+		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations_NZ"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="christchurch.night">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Christchurch"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
+		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations_NZ"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
@@ -150,28 +150,28 @@
 	<stadium name="dunedin.day">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Dunedin"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
+		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations_NZ"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="dunedin.night">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Dunedin"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
+		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations_NZ"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="dunedin.overcast">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Dunedin"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
+		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations_NZ"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="durban.day">
 		<default 		ads="Scrolling\South_Africa_Scrolling"	pads="Standard\Durban"/>
 		<Super14 		ads="Scrolling\SA_Super14_Scrolling"	pads="Standard\Durban"/>
-		<TriNations		ads="Scrolling\South_Africa_Scrolling"	pads="Standard\Durban"/>
+		<TriNations		ads="Scrolling\South_Africa_Scrolling"	pads="Tournaments\Tri_Nations_SA"/>
 		<WorldLeague		ads="Scrolling\South_Africa_Scrolling"	pads="Tournaments\World_League"/>
 		<LionsTour		ads="Scrolling\South_Africa_Scrolling"	pads="Standard\Lions"/>
 
@@ -241,7 +241,7 @@
 	<stadium name="hamilton.overcast">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Hamilton"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
+		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations_NZ"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
@@ -275,13 +275,13 @@
 	<stadium name="johannesburg.day">
 		<default 		ads="Scrolling\South_Africa_Scrolling3"	pads="Standard\Johannesburg"/>
 		<Super14 		ads="Scrolling\SA_Super14_Scrolling"	pads="Standard\Johannesburg"/>
-		<TriNations		ads="Scrolling\South_Africa_Scrolling3"	pads="Standard\Johannesburg"/>
+		<TriNations		ads="Scrolling\South_Africa_Scrolling3"	pads="Tournaments\Tri_Nations_SA"/>
 		<WorldLeague		ads="Scrolling\South_Africa_Scrolling3"	pads="Tournaments\World_League"/>
 	</stadium>
 	<stadium name="johannesburg.night">
 		<default 		ads="Scrolling\South_Africa_Scrolling3"	pads="Standard\Johannesburg"/>
 		<Super14 		ads="Scrolling\SA_Super14_Scrolling"	pads="Standard\Johannesburg"/>
-		<TriNations		ads="Scrolling\South_Africa_Scrolling3"	pads="Standard\Johannesburg"/>
+		<TriNations		ads="Scrolling\South_Africa_Scrolling3"	pads="Tournaments\Tri_Nations_SA"/>
 		<WorldLeague		ads="Scrolling\South_Africa_Scrolling3"	pads="Tournaments\World_League"/>
 	</stadium>
 	<stadium name="lansdownroad.overcast">
@@ -506,20 +506,20 @@
 	<stadium name="perth.night">
 		<default 		ads="Scrolling\Australia_Scrolling"	pads="Standard\Perth"/>
 		<Super14 		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Tri_Nations"/>
+		<TriNations		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Tri_Nations_AU"/>
 		<WorldLeague		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="pretoria.day">
 		<default 		ads="Scrolling\South_Africa_Scrolling4"	pads="Standard\Pretoria"/>
 		<Super14 		ads="Scrolling\SA_Super14_Scrolling"	pads="Standard\Pretoria"/>
-		<TriNations		ads="Scrolling\South_Africa_Scrolling4"	pads="Standard\Pretoria"/>
+		<TriNations		ads="Scrolling\South_Africa_Scrolling4"	pads="Tournaments\Tri_Nations_SA"/>
 		<WorldLeague		ads="Scrolling\South_Africa_Scrolling4"	pads="Tournaments\World_League"/>
 	</stadium>
 	<stadium name="pretoria.night">
 		<default 		ads="Scrolling\South_Africa_Scrolling4"	pads="Standard\Pretoria"/>
 		<Super14 		ads="Scrolling\SA_Super14_Scrolling"	pads="Standard\Pretoria"/>
-		<TriNations		ads="Scrolling\South_Africa_Scrolling4"	pads="Standard\Pretoria"/>
+		<TriNations		ads="Scrolling\South_Africa_Scrolling4"	pads="Tournaments\Tri_Nations_SA"/>
 		<WorldLeague		ads="Scrolling\South_Africa_Scrolling4"	pads="Tournaments\World_League"/>
 	</stadium>
 	<stadium name="Rome.day">
@@ -594,14 +594,14 @@
 	<stadium name="stadiumaustralia.night">
 		<default 		ads="Scrolling\Australia_Scrolling"	pads="Standard\Stadium_Australia"/>
 		<Super14 		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Tri_Nations"/>
+		<TriNations		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Tri_Nations_AU"/>
 		<WorldLeague		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="sydney.night">
 		<default 		ads="Scrolling\Australia_Scrolling"	pads="Standard\Sydney"/>
 		<Super14 		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Tri_Nations"/>
+		<TriNations		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Tri_Nations_AU"/>
 		<WorldLeague		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
@@ -750,8 +750,7 @@
 	<stadium name="wellington.night">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Wellington"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
+		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations_NZ"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
@@ -765,62 +764,53 @@
 	<stadium name="albany.day">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Albany"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="albany.night">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Albany"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="Invercargill.day">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Invercargill"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="Invercargill.night">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Invercargill"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="Kimberley.day">
 		<default 		ads="Scrolling\South_Africa_Scrolling2"	pads="Standard\Kimberley"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\South_Africa_Scrolling2"	pads="Standard\Kimberley"/>
 		<WorldLeague		ads="Scrolling\South_Africa_Scrolling2"	pads="Tournaments\World_League"/>
 	</stadium>
 	<stadium name="Palmerston.day">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Palmerston"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="Palmerston.night">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Palmerston"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="Yarrow.day">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Yarrow"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="Yarrow.night">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Yarrow"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
@@ -869,7 +859,7 @@
 	<stadium name="stadiumaustralia.day">
 		<default 		ads="Scrolling\Australia_Scrolling"	pads="Standard\Stadium_Australia"/>
 		<Super14 		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Tri_Nations"/>
+		<TriNations		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Tri_Nations_AU"/>
 		<WorldLeague		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\World_League"/>
 	</stadium>
 	<stadium name="newcastle.day">
@@ -883,70 +873,62 @@
 	<stadium name="Whangarei.day">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Auckland"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="Whangarei.night">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Auckland"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="Rotorua.day">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Auckland"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="Rotorua.night">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Auckland"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="Napier.day">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Auckland"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="Napier.night">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Auckland"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="Nelson.day">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Auckland"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="Nelson.night">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Auckland"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Tri_Nations"/>
 		<WorldLeague		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="mebank.day">
 		<default 		ads="Scrolling\Australia_Scrolling"	pads="Standard\Perth"/>
 		<Super14 		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Tri_Nations"/>
+		<TriNations		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Tri_Nations_AU"/>
 		<WorldLeague		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="mebank.night">
 		<default 		ads="Scrolling\Australia_Scrolling"	pads="Standard\Perth"/>
 		<Super14 		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Super14"/>
-		<TriNations		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Tri_Nations"/>
+		<TriNations		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Tri_Nations_AU"/>
 		<WorldLeague		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\World_League"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
