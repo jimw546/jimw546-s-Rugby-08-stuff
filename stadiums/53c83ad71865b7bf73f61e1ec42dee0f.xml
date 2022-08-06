@@ -25,6 +25,7 @@
 <stadium name="christchurch.day" 		splashes="1" atmosphere="1" stadium="1" pins="1" flares="1" flashes="9" floods="1" sun_flares="15"/>
 <stadium name="christchurch.night" 		splashes="1" atmosphere="15" stadium="75" pins="140" flares="1" flashes="9" floods="1" sun_flares="1"/>
 <stadium name="clermont.night"			splashes="180" atmosphere="8" stadium="24" pins="1" flares="1" flashes="5" floods="1" sun_flares="1"/>
+<stadium name="clermont.day" 		splashes="1" atmosphere="1" stadium="1" pins="1" flares="1" flashes="7" floods="1" sun_flares="15"/>
 <stadium name="dunedin.day" 		        splashes="1" atmosphere="1" stadium="1" pins="1" flares="1" flashes="9" floods="1" sun_flares="15"/>
 <stadium name="dunedin.night" 			splashes="180" atmosphere="15" stadium="130" pins="50" flares="1" flashes="10" floods="1" sun_flares="1"/>
 <stadium name="dunedin.overcast" 		splashes="180" atmosphere="15" stadium="130" pins="50" flares="1" flashes="10" floods="1" sun_flares="1"/>

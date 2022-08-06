@@ -35,7 +35,7 @@
         <stadium Index="6" Active="yes" CodeId="STA_ENG_BRISTOL" StadiumName="Ashton Gate" FileName="bristol" City="1083" HomeTeam="Bristol" FeGfxPackage="bristol" Country="1050" IntroScriptAnthem="Anthem_Leicester" IntroScriptNormal="intro_Leicester">
 			<environment breath="on" type="overcast" DirtType="Mud" ProbabilityDirt="High" ProbabilityPrecipitation="Very_High"/>
 		</stadium>
-        <stadium Index="7" Active="yes" CodeId="STA_ENG_MADEJSKI" StadiumName="Madejski Stadium" FileName="madejski" City="2227" HomeTeam="London Irish" FeGfxPackage="madejski" Country="1050" IntroScriptAnthem="" IntroScriptNormal="">
+        <stadium Index="7" Active="yes" CodeId="STA_ENG_MADEJSKI" StadiumName="Brentford Community Stadium" FileName="madejski" City="2227" HomeTeam="London Irish" FeGfxPackage="madejski" Country="1050" IntroScriptAnthem="" IntroScriptNormal="">
 			<camera Index="80"/>
 			<camera Index="81"/>
 			<environment breath="on" type="night" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="Medium"/>
@@ -105,7 +105,6 @@
 		</stadium>
 	  <stadium Index="21" Active="yes" CodeId="STA_FRA_STETIENNE" StadiumName="Stade Geoffroy-Guichard" FileName="stetienne" City="1042" HomeTeam="National Team" FeGfxPackage="stetienne" Country="1052" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="Anthem_ParcDesPrinces">
 			<camera Index="80"/>
-			<camera Index="81"/>
 			<environment breath="off" type="overcast" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="Low"/>
 		</stadium>
 	  <stadium Index="22" Active="yes" CodeId="STA_FRA_BOURGOIN" StadiumName="Stade Chaban-Delmas" FileName="bourgoin" City="2238" HomeTeam="Bourgoin" FeGfxPackage="bourgoin" Country="1052" IntroScriptAnthem="" IntroScriptNormal="">
@@ -128,6 +127,7 @@
 			<environment breath="off" type="overcast" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
 		</stadium>
 		<stadium Index="26" Active="yes" CodeId="STA_FRA_CLERMONT" StadiumName="Stade Marcel Michelin" FileName="clermont" City="2242" HomeTeam="Clermont" FeGfxPackage="clermont" Country="1052" IntroScriptAnthem="" IntroScriptNormal="">
+			<environment breath="off" type="day" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
 			<environment breath="on" type="night" DirtType="Mud" ProbabilityDirt="Medium" ProbabilityPrecipitation="High"/>
 		</stadium>
 		<stadium Index="27" Active="yes" CodeId="STA_FRA_PARIS" StadiumName="Stade Jean-Bouin" FileName="paris" City="2243" HomeTeam="Stade Francais" FeGfxPackage="paris" Country="1052" IntroScriptAnthem="Anthem_Paris" IntroScriptNormal="intro_Paris">

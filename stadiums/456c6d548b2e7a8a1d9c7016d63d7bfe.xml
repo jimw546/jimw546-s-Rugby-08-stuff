@@ -147,6 +147,11 @@
 		<WorldLeague		ads="Standard\France_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
 	</stadium>
+	<stadium name="clermont.day">
+		<default 		ads="Standard\France_Standard"		pads="Standard\Clermont"/>
+		<WorldLeague		ads="Standard\France_Standard"		pads="Tournaments\World_League"/>
+		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
+	</stadium>
 	<stadium name="dunedin.day">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Dunedin"/>
 		<Super14 		ads="Scrolling\New_Zealand_Scrolling"	pads="Tournaments\Super14"/>
