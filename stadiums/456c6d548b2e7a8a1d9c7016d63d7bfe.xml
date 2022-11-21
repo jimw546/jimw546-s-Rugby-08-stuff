@@ -12,6 +12,7 @@
 		<default 		ads="Standard\Italy_Standard"	pads="Standard\Arena_Civica"/>
 		<WorldLeague		ads="Standard\Italy_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
+		<Premiership		ads="Standard\Italy_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="auckland.day">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Auckland"/>
@@ -117,10 +118,17 @@
 		<TriNations		ads="Scrolling\South_Africa_Scrolling2"	pads="Tournaments\Tri_Nations_SA"/>
 		<WorldLeague		ads="Scrolling\South_Africa_Scrolling2"	pads="Tournaments\World_League"/>
 	</stadium>
+	<stadium name="cardiff.day">
+		<default 		ads="Standard\Wales_Standard"		pads="Standard\Cardiff"/>
+		<WorldLeague		ads="Standard\Wales_Standard"		pads="Tournaments\World_League"/>
+		<EuropeanTrophy		ads="Standard\Wales_Standard"		pads="Tournaments\European"/>
+		<Premiership		ads="Standard\Wales_Standard"	pads="Tournaments\Pro12"/>
+	</stadium>
 	<stadium name="cardiff.overcast">
 		<default 		ads="Standard\Wales_Standard"		pads="Standard\Cardiff"/>
 		<WorldLeague		ads="Standard\Wales_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Wales_Standard"		pads="Tournaments\European"/>
+		<Premiership		ads="Standard\Wales_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="castres.night">
 		<default 		ads="World_Cup\France_NonWC_F"		pads="Standard\Castres"/>
@@ -261,21 +269,25 @@
 		<default 		ads="Standard\Ireland_Standard"	pads="Standard\Irish_Park"/>
 		<WorldLeague		ads="Standard\Ireland_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Ireland_Standard"		pads="Tournaments\European_Ireland"/>
+		<Premiership		ads="Standard\Ireland_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="irishpark.night">
 		<default 		ads="Standard\Ireland_Standard"	pads="Standard\Irish_Park"/>
 		<WorldLeague		ads="Standard\Ireland_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Ireland_Standard"		pads="Tournaments\European_Ireland"/>
+		<Premiership		ads="Standard\Ireland_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="irishpark.overcast">
 		<default 		ads="Standard\Ireland_Standard"	pads="Standard\Irish_Park"/>
 		<WorldLeague		ads="Standard\Ireland_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Ireland_Standard"		pads="Tournaments\European_Ireland"/>
+		<Premiership		ads="Standard\Ireland_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="irishpark.cold">
 		<default 		ads="Standard\Ireland_Standard"	pads="Standard\Irish_Park"/>
 		<WorldLeague		ads="Standard\Ireland_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Ireland_Standard"		pads="Tournaments\European_Ireland"/>
+		<Premiership		ads="Standard\Ireland_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="johannesburg.day">
 		<default 		ads="Scrolling\South_Africa_Scrolling3"	pads="Standard\Johannesburg"/>
@@ -292,16 +304,24 @@
 	<stadium name="lansdownroad.overcast">
 		<default 		ads="Scrolling\Ireland_Scrolling"	pads="Standard\Lansdown"/>
 		<SixNations 		ads="Scrolling\Ireland_Scrolling"	pads="Tournaments\Six_Nations"/>
+		<Premiership		ads="Standard\Ireland_Standard"	pads="Tournaments\Pro12"/>
+	</stadium>
+	<stadium name="lansdownroad.day">
+		<default 		ads="Scrolling\Ireland_Scrolling"	pads="Standard\Lansdown"/>
+		<SixNations 		ads="Scrolling\Ireland_Scrolling"	pads="Tournaments\Six_Nations"/>
+		<Premiership		ads="Standard\Ireland_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="Leinster.cold">
 		<default 		ads="Standard\Ireland_Standard"		pads="Standard\Leinster"/>
 		<WorldLeague		ads="Standard\Ireland_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Ireland_Standard"		pads="Tournaments\European_Ireland"/>
+		<Premiership		ads="Standard\Ireland_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="Leinster.overcast">
 		<default 		ads="Standard\Ireland_Standard"		pads="Standard\Leinster"/>
 		<WorldLeague		ads="Standard\Ireland_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Ireland_Standard"		pads="Tournaments\European_Ireland"/>
+		<Premiership		ads="Standard\Ireland_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="leparc.day">
 		<default 		ads="World_Cup\France_NonWC_F"		pads="Standard\Le_Parc"/>
@@ -319,7 +339,8 @@
 		<default 		ads="Standard\Wales_Standard"		pads="Standard\Llanelli"/>
 		<WorldLeague		ads="Standard\Wales_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Wales_Standard"		pads="Tournaments\European"/>
-                <WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/> 
+		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/> 
+		<Premiership		ads="Standard\Wales_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="madejski.day">
 		<default 		ads="Standard\England_Standard_Prem"	pads="Standard\Madejski"/>
@@ -354,24 +375,28 @@
 		<SixNations 		ads="World_Cup\Millennium_Standard"	pads="Tournaments\Six_Nations"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\Millennium_Standard"	pads="Tournaments\World_League"/>
+		<Premiership		ads="Standard\Millennium_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="millenium.night">
 		<default 		ads="World_Cup\Millennium_Standard"	pads="Standard\Millenium"/>
 		<SixNations 		ads="World_Cup\Millennium_Standard"	pads="Tournaments\Six_Nations"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\Millennium_Standard"	pads="Tournaments\World_League"/>
+		<Premiership		ads="Standard\Millennium_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="millenium.overcast">
 		<default 		ads="World_Cup\Millennium_Standard"	pads="Standard\Millenium"/>
 		<SixNations 		ads="World_Cup\Millennium_Standard"	pads="Tournaments\Six_Nations"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\Millennium_Standard"	pads="Tournaments\World_League"/>
+		<Premiership		ads="Standard\Millennium_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="milleniumcovered.cold">
 		<default 		ads="World_Cup\Millennium_Standard"	pads="Standard\Millenium"/>
 		<SixNations 		ads="World_Cup\Millennium_Standard"	pads="Tournaments\Six_Nations"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\Millennium_Standard"	pads="Tournaments\World_League"/>
+		<Premiership		ads="Standard\Millennium_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="murrayfield.day">
 		<default 		ads="World_Cup\Murrayfield_Standard"	pads="Standard\Murrayfield"/>
@@ -379,6 +404,7 @@
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\Murrayfield_Standard"	pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="World_Cup\Murrayfield_Standard"	pads="Tournaments\European"/>
+		<Premiership		ads="Standard\Murrayfield_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="murrayfield.night">
 		<default 		ads="World_Cup\Murrayfield_Standard"	pads="Standard\Murrayfield"/>
@@ -386,6 +412,7 @@
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\Murrayfield_Standard"	pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="World_Cup\Murrayfield_Standard"	pads="Tournaments\European"/>
+		<Premiership		ads="Standard\Murrayfield_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="murrayfield.overcast">
 		<default 		ads="World_Cup\Murrayfield_Standard"	pads="Standard\Murrayfield"/>
@@ -393,16 +420,19 @@
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\Murrayfield_Standard"	pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="World_Cup\Murrayfield_Standard"	pads="Tournaments\European"/>
+		<Premiership		ads="Standard\Murrayfield_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="neath.cold">
 		<default 		ads="Standard\Wales_Standard"		pads="Standard\Neath"/>
 		<WorldLeague		ads="Standard\Wales_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Wales_Standard"		pads="Tournaments\European"/>
+		<Premiership		ads="Standard\Wales_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="neath.overcast">
 		<default 		ads="Standard\Wales_Standard"		pads="Standard\Neath"/>
 		<WorldLeague		ads="Standard\Wales_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Wales_Standard"		pads="Tournaments\European"/>
+		<Premiership		ads="Standard\Wales_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="newcastle.day">
 		<default 		ads="Standard\England_Standard_Prem"	pads="Standard\Newcastle"/>
@@ -435,11 +465,13 @@
 		<default 		ads="Standard\Wales_Standard"		pads="Standard\Newport"/>
 		<WorldLeague		ads="Standard\Wales_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Wales_Standard"		pads="Tournaments\European"/>
+		<Premiership		ads="Standard\Wales_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="newport.night">
 		<default 		ads="Standard\Wales_Standard"		pads="Standard\Newport"/>
 		<WorldLeague		ads="Standard\Wales_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Wales_Standard"		pads="Tournaments\European"/>
+		<Premiership		ads="Standard\Wales_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="northampton.day">
 		<default 		ads="Standard\England_Standard_Prem"	pads="Standard\Northampton"/>
@@ -473,11 +505,13 @@
 		<default 		ads="Standard\Scotland_Standard"	pads="Standard\Northern_Park"/>
 		<WorldLeague		ads="Standard\Scotland_Standard"	pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Scotland_Standard"	pads="Tournaments\European"/>
+		<Premiership		ads="Standard\Scotland_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="northernpark.night">
 		<default 		ads="Standard\Scotland_Standard"	pads="Standard\Northern_Park"/>
 		<WorldLeague		ads="Standard\Scotland_Standard"	pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Scotland_Standard"	pads="Tournaments\European"/>
+		<Premiership		ads="Standard\Scotland_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="Parcdesprinces.day">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Parc_Des_Princes"/>
@@ -532,6 +566,7 @@
 		<SixNations 		ads="Standard\Italy_Standard"		pads="Tournaments\Six_Nations"/>
 		<WorldLeague		ads="Standard\Italy_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Italy_Standard"		pads="Tournaments\European"/>
+		<Premiership		ads="Standard\Italy_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="sanfrancisco.day">
 		<default 		ads="Standard\North_America_Standard"	pads="Standard\San_Francisco"/>
@@ -563,7 +598,7 @@
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="StadeDeLaBeaujoire.overcast">
-		<default 		ads="World_Cup\France_NonWC_F"		pads="Standard\Stade_de_la_Beaujoire"/>
+		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_la_Beaujoire"/>
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="StadeMunicipal.night">
@@ -686,16 +721,19 @@
 		<default 		ads="Standard\Ireland_Standard"		pads="Standard\Ulster"/>
 		<WorldLeague		ads="Standard\Ireland_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Ireland_Standard"		pads="Tournaments\European_Ireland"/>
+		<Premiership		ads="Standard\Ireland_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="Ulster.night">
 		<default 		ads="Standard\Ireland_Standard"		pads="Standard\Ulster"/>
 		<WorldLeague		ads="Standard\Ireland_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Ireland_Standard"		pads="Tournaments\European_Ireland"/>
+		<Premiership		ads="Standard\Ireland_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="Ulster.overcast">
 		<default 		ads="Standard\Ireland_Standard"		pads="Standard\Ulster"/>
 		<WorldLeague		ads="Standard\Ireland_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Ireland_Standard"		pads="Tournaments\European_Ireland"/>
+		<Premiership		ads="Standard\Ireland_Standard"		pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="vancouver.day">
 		<default 		ads="Standard\North_America_Standard"	pads="Standard\Vancouver"/>
@@ -842,12 +880,14 @@
 	<stadium name="Viadana.day">
 		<default 		ads="Standard\Italy_Standard"		pads="Standard\Viadana"/>
 		<WorldLeague		ads="Standard\Italy_Standard"		pads="Tournaments\World_League"/>
-		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
+		<EuropeanTrophy		ads="Standard\Italy_Standard"		pads="Tournaments\European_France"/>
+		<Premiership		ads="Standard\Italy_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="Viadana.night">
 		<default 		ads="Standard\Italy_Standard"		pads="Standard\Viadana"/>
 		<WorldLeague		ads="Standard\Italy_Standard"		pads="Tournaments\World_League"/>
-		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
+		<EuropeanTrophy		ads="Standard\Italy_Standard"		pads="Tournaments\European_France"/>
+		<Premiership		ads="Standard\Italy_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="Leeds.day">
 		<default 		ads="Standard\Leeds_Standard"		pads="Standard\Welford_Road"/>
@@ -941,11 +981,13 @@
 		<default 		ads="Standard\Ireland_Standard"		pads="Standard\Ulster"/>
 		<WorldLeague		ads="Standard\Ireland_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Ireland_Standard"		pads="Tournaments\European_Ireland"/>
+		<Premiership		ads="Standard\Ireland_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="Connacht.night">
 		<default 		ads="Standard\Ireland_Standard"		pads="Standard\Ulster"/>
 		<WorldLeague		ads="Standard\Ireland_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Ireland_Standard"		pads="Tournaments\European_Ireland"/>
+		<Premiership		ads="Standard\Ireland_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="Yves.day">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Le_Parc"/>
@@ -975,19 +1017,22 @@
 		<default 		ads="Standard\Ireland_Standard"		pads="Standard\Leinster"/>
 		<WorldLeague		ads="Standard\Ireland_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Ireland_Standard"		pads="Tournaments\European_Ireland"/>
+		<Premiership		ads="Standard\Ireland_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="Thomond.night">
 		<default 		ads="Standard\Ireland_Standard"		pads="Standard\Leinster"/>
 		<WorldLeague		ads="Standard\Ireland_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Ireland_Standard"		pads="Tournaments\European_Ireland"/>
+		<Premiership		ads="Standard\Ireland_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="Thomond.overcast">
 		<default 		ads="Standard\Ireland_Standard"		pads="Standard\Leinster"/>
 		<WorldLeague		ads="Standard\Ireland_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Ireland_Standard"		pads="Tournaments\European_Ireland"/>
+		<Premiership		ads="Standard\Ireland_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="LaRochelle.day">
-		<default 		ads="World_Cup\France_NonWC_F"		pads="Standard\LaRochelle"/>
+		<default 		ads="World_Cup\France_NonWC"		pads="Standard\LaRochelle"/>
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\France_NonWC_F"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="World_Cup\France_NonWC_F"		pads="Tournaments\European_France"/>
@@ -996,36 +1041,40 @@
 		<default 		ads="Standard\Scotland_Standard"	pads="Standard\Edinburgh"/>
 		<WorldLeague		ads="Standard\Scotland_Standard"	pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\Scotland_Standard"	pads="Tournaments\European"/>
+		<Premiership		ads="Standard\Scotland_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
 	<stadium name="Lyon.overcast">
-		<default 		ads="World_Cup\France_NonWC_F"		pads="Standard\Stade_de_France"/>
+		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_France"/>
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
-		<WorldLeague		ads="World_Cup\France_NonWC_F"		pads="Tournaments\World_League"/>
-		<EuropeanTrophy		ads="World_Cup\France_NonWC_F"		pads="Tournaments\European_France"/>
+		<WorldLeague		ads="World_Cup\France_NonWC"		pads="Tournaments\World_League"/>
+		<EuropeanTrophy		ads="World_Cup\France_NonWC"		pads="Tournaments\European_France"/>
 	</stadium>
 	<stadium name="Nice.day">
-		<default 		ads="World_Cup\France_NonWC_F"		pads="Standard\Stade_de_France"/>
+		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_France"/>
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\France_NonWC_F"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="World_Cup\France_NonWC_F"		pads="Tournaments\European_France"/>
 	</stadium>
 	<stadium name="Lille.night">
-		<default 		ads="World_Cup\France_NonWC_F"		pads="Standard\Stade_de_France"/>
+		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_France"/>
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
-		<WorldLeague		ads="World_Cup\France_NonWC_F"		pads="Tournaments\World_League"/>
-		<EuropeanTrophy		ads="World_Cup\France_NonWC_F"		pads="Tournaments\European_France"/>
+		<WorldLeague		ads="World_Cup\France_NonWC"		pads="Tournaments\World_League"/>
+		<EuropeanTrophy		ads="World_Cup\France_NonWC"		pads="Tournaments\European_France"/>
 	</stadium>
 	<stadium name="stetienne.overcast">
-		<default 		ads="World_Cup\France_NonWC_F"		pads="Standard\Stade_de_France"/>
+		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_France"/>
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
-		<WorldLeague		ads="World_Cup\France_NonWC_F"		pads="Tournaments\World_League"/>
-		<EuropeanTrophy		ads="World_Cup\France_NonWC_F"		pads="Tournaments\European_France"/>
+		<WorldLeague		ads="World_Cup\France_NonWC"		pads="Tournaments\World_League"/>
+		<EuropeanTrophy		ads="World_Cup\France_NonWC"		pads="Tournaments\European_France"/>
 	</stadium>
 	<stadium name="Bordeaux.overcast">
-		<default 		ads="World_Cup\France_NonWC_F"		pads="Standard\Stade_de_France"/>
+		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_France"/>
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
-		<WorldLeague		ads="World_Cup\France_NonWC_F"		pads="Tournaments\World_League"/>
-		<EuropeanTrophy		ads="World_Cup\France_NonWC_F"		pads="Tournaments\European_France"/>
+		<WorldLeague		ads="World_Cup\France_NonWC"		pads="Tournaments\World_League"/>
+		<EuropeanTrophy		ads="World_Cup\France_NonWC"		pads="Tournaments\European_France"/>
+	</stadium>
+	<stadium name="Tokyo.day">
+		<default 		ads="Standard\Japan_Standard"	pads="Standard\Japan"/>
 	</stadium>
 </stadiums>
 

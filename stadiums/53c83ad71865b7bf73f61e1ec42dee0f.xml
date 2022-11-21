@@ -20,6 +20,7 @@
 <stadium name="capetown.day" 			splashes="1" atmosphere="1" stadium="1" pins="1" flares="1" flashes="7" floods="1" sun_flares="15"/>
 <stadium name="capetown.night" 			splashes="1" atmosphere="10" stadium="285" pins="80" flares="5" flashes="15" floods="1" sun_flares="1"/>
 <stadium name="capetown.overcast" 		splashes="180" atmosphere="15" stadium="130" pins="50" flares="1" flashes="10" floods="1" sun_flares="1"/>
+<stadium name="cardiff.day" 		splashes="1" atmosphere="21" stadium="135" pins="1" flares="54" flashes="6" floods="1" sun_flares="15"/>
 <stadium name="cardiff.overcast" 		splashes="10" atmosphere="16" stadium="54" pins="80" flares="1" flashes="5" floods="1" sun_flares="1"/>
 <stadium name="castres.night"		        splashes="180" atmosphere="9" stadium="52" pins="1" flares="1" flashes="7" floods="1" sun_flares="1"/>
 <stadium name="christchurch.day" 		splashes="1" atmosphere="1" stadium="1" pins="1" flares="1" flashes="9" floods="1" sun_flares="15"/>
@@ -49,6 +50,7 @@
 <stadium name="johannesburg.day" 		splashes="1" atmosphere="1" stadium="5" pins="1" flares="1" flashes="9" floods="1" sun_flares="15"/>
 <stadium name="johannesburg.night" 		splashes="1" atmosphere="24" stadium="96" pins="206" flares="1" flashes="9" floods="1" sun_flares="1"/>
 <stadium name="lansdownroad.overcast" 		splashes="180" atmosphere="5" stadium="58" pins="1" flares="1" flashes="7" floods="1" sun_flares="1"/>
+<stadium name="lansdownroad.day" 		splashes="1" atmosphere="21" stadium="135" pins="1" flares="54" flashes="6" floods="1" sun_flares="15"/>
 <stadium name="Leinster.cold"	 		splashes="180" atmosphere="23" stadium="175" pins="1" flares="1" flashes="1800" floods="1" sun_flares="1"/>
 <stadium name="Leinster.overcast"	 	splashes="180" atmosphere="23" stadium="108" pins="1" flares="1" flashes="5" floods="1" sun_flares="1"/>
 <stadium name="leparc.day" 			splashes="1" atmosphere="8" stadium="25" pins="1" flares="1" flashes="5" floods="1" sun_flares="15"/>
@@ -176,5 +178,6 @@
 <stadium name="Lille.night" 			splashes="1" atmosphere="1" stadium="1" pins="1" flares="1" flashes="11" floods="1" sun_flares="15"/>
 <stadium name="stetienne.overcast" 		splashes="180" atmosphere="10" stadium="35" pins="15" flares="1" flashes="5" floods="1" sun_flares="1"/>
 <stadium name="Bordeaux.overcast" 		splashes="180" atmosphere="10" stadium="35" pins="15" flares="1" flashes="5" floods="1" sun_flares="1"/>
+<stadium name="Tokyo.day" 		splashes="1" atmosphere="1" stadium="1" pins="1" flares="1" flashes="5" floods="1" sun_flares="15"/>
 
 
