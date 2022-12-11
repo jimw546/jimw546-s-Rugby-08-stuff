@@ -35,16 +35,16 @@
             <team id="11" alias="Australia" Index="2" />
             <team id="12" alias="Fiji" Index="6" />
             <team id="13" alias="Georgia" Index="8" />
-            <team id="14" alias="Canada" Index="3" />
+            <team id="14" alias="United States" Index="24" />
 			
             <team id="15" alias="England" Index="5" />
             <team id="16" alias="Japan" Index="11" />
             <team id="17" alias="Argentina" Index="1" />
             <team id="18" alias="Samoa" Index="20" />
-            <team id="19" alias="United States" Index="24" />
+            <team id="19" alias="Canada" Index="3" />
 			
-            <team id="20" alias="AAAA" Index="98" />
-            <team id="21" alias="Russia" Index="99" />
+            <team id="20" alias="United States" Index="24" />
+            <team id="21" alias="Canada" Index="3" />
         </teams>
         <round id="0">
             <pool games="10" id="0">
