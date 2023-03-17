@@ -158,6 +158,7 @@
 <stadium name="Nelson.night" 			splashes="180" atmosphere="15" stadium="210" pins="1" flares="54" flashes="6" floods="1" sun_flares="1"/>
 <stadium name="mebank.day" 		        splashes="1" atmosphere="1" stadium="75" pins="1" flares="1" flashes="7" floods="1" sun_flares="15"/>
 <stadium name="mebank.night" 			splashes="180" atmosphere="15" stadium="210" pins="1" flares="54" flashes="6" floods="1" sun_flares="1"/>
+<stadium name="mebank.overcast" 		        splashes="1" atmosphere="1" stadium="75" pins="1" flares="1" flashes="7" floods="1" sun_flares="15"/>
 <stadium name="Connacht.day" 			splashes="1" atmosphere="1" stadium="1" pins="1" flares="1" flashes="7" floods="1" sun_flares="15"/>
 <stadium name="Connacht.night" 			splashes="1" atmosphere="10" stadium="75" pins="180" flares="1" flashes="10" floods="1" sun_flares="1"/>
 <stadium name="Yves.day" 			splashes="1" atmosphere="1" stadium="1" pins="1" flares="1" flashes="11" floods="1" sun_flares="15"/>

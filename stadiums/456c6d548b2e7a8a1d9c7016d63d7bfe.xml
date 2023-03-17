@@ -573,6 +573,7 @@
 	</stadium>
 	<stadium name="southpacific.day">
 		<default 		ads="Standard\South_Pacific_Standard"	pads="Standard\South_Pacific"/>
+		<Super14 		ads="Standard\South_Pacific_Standard"	pads="Tournaments\Super14"/>
 	</stadium>
 	<stadium name="stadedefrance.day">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_France"/>
@@ -592,10 +593,14 @@
 	<stadium name="stadedegerland.night">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_Gerland"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
+		<WorldLeague		ads="World_Cup\France_NonWC"		pads="Tournaments\World_League"/>
+		<EuropeanTrophy		ads="World_Cup\France_NonWC"		pads="Tournaments\European_France"/>
 	</stadium>
 	<stadium name="stadedegerland.overcast">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_Gerland"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
+		<WorldLeague		ads="World_Cup\France_NonWC"		pads="Tournaments\World_League"/>
+		<EuropeanTrophy		ads="World_Cup\France_NonWC"		pads="Tournaments\European_France"/>
 	</stadium>
 	<stadium name="StadeDeLaBeaujoire.overcast">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_la_Beaujoire"/>
@@ -971,6 +976,13 @@
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 	</stadium>
 	<stadium name="mebank.night">
+		<default 		ads="Scrolling\Australia_Scrolling"	pads="Standard\Perth"/>
+		<Super14 		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Super14"/>
+		<TriNations		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Tri_Nations_AU"/>
+		<WorldLeague		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\World_League"/>
+		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
+	</stadium>
+	<stadium name="mebank.overcast">
 		<default 		ads="Scrolling\Australia_Scrolling"	pads="Standard\Perth"/>
 		<Super14 		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Super14"/>
 		<TriNations		ads="Scrolling\Australia_Scrolling"	pads="Tournaments\Tri_Nations_AU"/>

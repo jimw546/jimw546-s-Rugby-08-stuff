@@ -304,6 +304,7 @@
         <stadium Index="61" Active="yes" CodeId="STA_AUS_MEBANK" StadiumName="Melbourne" FileName="mebank" City="2247" HomeTeam="Western Force" FeGfxPackage="mebank" Country="1048" IntroScriptAnthem="Anthem_Pretoria" IntroScriptNormal="intro_Pretoria">
 			<camera Index="9"/>
 			<environment breath="on" type="night" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
+			<environment breath="on" type="overcast" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
 		</stadium>
         <stadium Index="62" Active="yes" CodeId="STA_ASI_SOUTHPACIFIC" StadiumName="Suva" FileName="southpacific" City="1051" HomeTeam="Fiji, Japan, Tonga, Samoa" FeGfxPackage="southpacific" Country="1461" IntroScriptAnthem="Anthem_Pretoria" IntroScriptNormal="intro_Pretoria">
 			<camera Index="9"/>
@@ -336,7 +337,7 @@
 			<camera Index="87"/>
 			<environment breath="off" type="day" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
 		</stadium>
-        <stadium Index="67" Active="yes" CodeId="STA_FRA_YVES" StadiumName="La Defense Arena" FileName="Yves" City="1036" HomeTeam="Racing Metro" FeGfxPackage="yves" Country="1052" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="intro_ParcDesPrinces">
+        <stadium Index="67" Active="yes" CodeId="STA_FRA_YVES" StadiumName="La Defense Arena" FileName="Yves" City="2243" HomeTeam="Racing Metro" FeGfxPackage="yves" Country="1052" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="intro_ParcDesPrinces">
 			<environment type="night" breath="off" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>			
 		</stadium>
         <stadium Index="68" Active="yes" CodeId="STA_FRA_STADEVELODROME" StadiumName="Stade Velodrome" FileName="stadevelodrome" City="2843" HomeTeam="National Team" FeGfxPackage="stadevelodrome" Country="1052" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="intro_ParcDesPrinces">
@@ -388,13 +389,15 @@
 			<environment breath="on" type="cold" DirtType="Grass" ProbabilityDirt="Medium" ProbabilityPrecipitation="None"/>
 		</stadium>
         <stadium Index="79" Active="yes" CodeId="STA_ENG_VICARAGEROAD" StadiumName="Barnet Copthall" FileName="VicarageRd" City="2848" HomeTeam="Saracens" FeGfxPackage="vicarageroad" Country="1050" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="intro_ParcDesPrinces">
-			<camera Index="88"/>
-			<camera Index="89"/>
-			<environment breath="on" type="overcast" DirtType="Mud" ProbabilityDirt="High" ProbabilityPrecipitation="Very_High"/>
+			<environment breath="on" type="overcast" DirtType="Mud" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="Low"/>
 		</stadium>
 		<stadium Index="77" Active="yes" CodeId="STA_FRA_LYON" StadiumName="OL Stadium" FileName="Lyon" City="2839" HomeTeam="National Team" FeGfxPackage="Lyon" Country="1052" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="Anthem_ParcDesPrinces">
 			<camera Index="72"/>
 			<environment type="overcast" breath="off" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
+		</stadium>
+		<stadium Index="80" Active="yes" CodeId="STA_FRA_TOULOUSE" StadiumName="XXXXXXXXXXX" FileName="aaaaaaaaaa" City="2842" HomeTeam="National Team" FeGfxPackage="stademunicipal" Country="1052" IntroScriptAnthem="Anthem_ParcDesPrinces" IntroScriptNormal="intro_ParcDesPrinces">
+			<environment breath="on" type="night" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="Low"/>
+			<environment breath="on" type="overcast" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="Low"/>
 		</stadium>
     </Project>
 </hbstool>
