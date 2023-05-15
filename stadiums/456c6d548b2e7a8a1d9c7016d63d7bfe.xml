@@ -311,6 +311,11 @@
 		<SixNations 		ads="Scrolling\Ireland_Scrolling"	pads="Tournaments\Six_Nations"/>
 		<Premiership		ads="Standard\Ireland_Standard"	pads="Tournaments\Pro12"/>
 	</stadium>
+	<stadium name="lansdownroad.night">
+		<default 		ads="Scrolling\Ireland_Scrolling"	pads="Standard\Lansdown"/>
+		<SixNations 		ads="Scrolling\Ireland_Scrolling"	pads="Tournaments\Six_Nations"/>
+		<Premiership		ads="Standard\Ireland_Standard"	pads="Tournaments\Pro12"/>
+	</stadium>
 	<stadium name="Leinster.cold">
 		<default 		ads="Standard\Ireland_Standard"		pads="Standard\Leinster"/>
 		<WorldLeague		ads="Standard\Ireland_Standard"		pads="Tournaments\World_League"/>
@@ -619,22 +624,22 @@
 		<EuropeanTrophy		ads="World_Cup\France_NonWC"		pads="Tournaments\European_France"/>
 	</stadium>
 	<stadium name="stadevelodrome.day">
-		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_Velodrome"/>
+		<default 		ads="Standard\France_Standard"		pads="Standard\Stade_Velodrome"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
-		<WorldLeague		ads="World_Cup\France_NonWC"		pads="Tournaments\World_League"/>
-		<EuropeanTrophy		ads="World_Cup\France_NonWC"		pads="Tournaments\European_France"/>
+		<WorldLeague		ads="Standard\France_Standard"		pads="Tournaments\World_League"/>
+		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
 	</stadium>
 	<stadium name="stadevelodrome.night">
-		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_Velodrome"/>
+		<default 		ads="Standard\France_Standard"		pads="Standard\Stade_Velodrome"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
-		<WorldLeague		ads="World_Cup\France_NonWC"		pads="Tournaments\World_League"/>
-		<EuropeanTrophy		ads="World_Cup\France_NonWC"		pads="Tournaments\European_France"/>
+		<WorldLeague		ads="Standard\France_Standard"		pads="Tournaments\World_League"/>
+		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
 	</stadium>
 	<stadium name="stadevelodrome.overcast">
-		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_Velodrome"/>
+		<default 		ads="Standard\France_Standard"		pads="Standard\Stade_Velodrome"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
-		<WorldLeague		ads="World_Cup\France_NonWC"		pads="Tournaments\World_League"/>
-		<EuropeanTrophy		ads="World_Cup\France_NonWC"		pads="Tournaments\European_France"/>
+		<WorldLeague		ads="Standard\France_Standard"		pads="Tournaments\World_League"/>
+		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
 	</stadium>
 	<stadium name="stadiumaustralia.night">
 		<default 		ads="Scrolling\Australia_Scrolling"	pads="Standard\Stadium_Australia"/>

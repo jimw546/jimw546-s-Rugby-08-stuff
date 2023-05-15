@@ -51,6 +51,7 @@
 <stadium name="johannesburg.night" 		splashes="1" atmosphere="24" stadium="96" pins="206" flares="1" flashes="9" floods="1" sun_flares="1"/>
 <stadium name="lansdownroad.overcast" 		splashes="180" atmosphere="5" stadium="58" pins="1" flares="1" flashes="7" floods="1" sun_flares="1"/>
 <stadium name="lansdownroad.day" 		splashes="1" atmosphere="21" stadium="135" pins="1" flares="54" flashes="6" floods="1" sun_flares="15"/>
+<stadium name="lansdownroad.night" 		splashes="1" atmosphere="24" stadium="96" pins="206" flares="1" flashes="9" floods="1" sun_flares="1"/>
 <stadium name="Leinster.cold"	 		splashes="180" atmosphere="23" stadium="175" pins="1" flares="1" flashes="1800" floods="1" sun_flares="1"/>
 <stadium name="Leinster.overcast"	 	splashes="180" atmosphere="23" stadium="108" pins="1" flares="1" flashes="5" floods="1" sun_flares="1"/>
 <stadium name="leparc.day" 			splashes="1" atmosphere="8" stadium="25" pins="1" flares="1" flashes="5" floods="1" sun_flares="15"/>

@@ -123,6 +123,7 @@
 			<camera Index="58"/>
 			<camera Index="59"/>
 			<environment breath="off" type="day" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
+			<environment breath="off" type="night" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
 			<environment breath="off" type="overcast" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="Low"/>
 		</stadium>
 		<stadium Index="26" Active="yes" CodeId="STA_FRA_CLERMONT" StadiumName="Stade Marcel Michelin" FileName="clermont" City="2242" HomeTeam="Clermont" FeGfxPackage="clermont" Country="1052" IntroScriptAnthem="" IntroScriptNormal="">
