@@ -51,6 +51,7 @@
 		<WorldLeague		ads="Standard\France_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
+		<Super14 		ads="Standard\France_Standard"	pads="Standard\Bourgoin"/>
 	</stadium>
 	<stadium name="brisbane.day">
 		<default 		ads="Scrolling\Australia_Scrolling"	pads="Standard\Brisbane"/>
@@ -154,11 +155,13 @@
 		<default 		ads="Standard\France_Standard"		pads="Standard\Clermont"/>
 		<WorldLeague		ads="Standard\France_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
+		<Super14 		ads="Standard\France_Standard"		pads="Standard\Clermont"/>
 	</stadium>
 	<stadium name="clermont.day">
 		<default 		ads="Standard\France_Standard"		pads="Standard\Clermont"/>
 		<WorldLeague		ads="Standard\France_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
+		<Super14 		ads="Standard\France_Standard"		pads="Standard\Clermont"/>
 	</stadium>
 	<stadium name="dunedin.day">
 		<default 		ads="Scrolling\New_Zealand_Scrolling"	pads="Standard\Dunedin"/>
@@ -219,10 +222,12 @@
 	<stadium name="felixbollaert.night">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Felix_Bollaert"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
+		<Super14 		ads="World_Cup\France_NonWC"		pads="Standard\Felix_Bollaert"/>
 	</stadium>
 	<stadium name="felixbollaert.overcast">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Felix_Bollaert"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
+		<Super14 		ads="World_Cup\France_NonWC"		pads="Standard\Felix_Bollaert"/>
 	</stadium>
 	<stadium name="gloucester.day">
 		<default 		ads="Standard\England_Standard_Prem"	pads="Standard\Gloucester"/>
@@ -333,12 +338,14 @@
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\France_NonWC_F"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="World_Cup\France_NonWC_F"		pads="Tournaments\European_France"/>
+		<Super14 		ads="World_Cup\France_NonWC_F"		pads="Standard\Le_Parc"/>
 	</stadium>
 	<stadium name="leparc.night">
 		<default 		ads="World_Cup\France_NonWC_F"		pads="Standard\Le_Parc"/>
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\France_NonWC_F"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="World_Cup\France_NonWC_F"		pads="Tournaments\European_France"/>
+		<Super14 		ads="World_Cup\France_NonWC_F"		pads="Standard\Le_Parc"/>
 	</stadium>
 	<stadium name="llanelli.day">
 		<default 		ads="Standard\Wales_Standard"		pads="Standard\Llanelli"/>
@@ -521,31 +528,37 @@
 	<stadium name="Parcdesprinces.day">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Parc_Des_Princes"/>
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
+		<Super14 		ads="World_Cup\France_NonWC"		pads="Standard\Parc_Des_Princes"/>
 	</stadium>
 	<stadium name="Parcdesprinces.night">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Parc_Des_Princes"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
+		<Super14 		ads="World_Cup\France_NonWC"		pads="Standard\Parc_Des_Princes"/>
 	</stadium>
 	<stadium name="Parcdesprinces.overcast">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Parc_Des_Princes"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
+		<Super14 		ads="World_Cup\France_NonWC"		pads="Standard\Parc_Des_Princes"/>
 	</stadium>
 	<stadium name="paris.overcast">
 		<default 		ads="Standard\France_Standard"		pads="Standard\Paris"/>
 		<WorldLeague		ads="Standard\France_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
+		<Super14 		ads="Standard\France_Standard"		pads="Standard\Paris"/>
 	</stadium>
 	<stadium name="perpignan.night">
 		<default 		ads="World_Cup\France_NonWC_F"		pads="Standard\Perpignan"/>
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\France_NonWC_F"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="World_Cup\France_NonWC_F"		pads="Tournaments\European_France"/>
+		<Super14 		ads="World_Cup\France_NonWC_F"		pads="Standard\Perpignan"/>
 	</stadium>
 	<stadium name="perpignan.overcast">
 		<default 		ads="World_Cup\France_NonWC_F"		pads="Standard\Perpignan"/>
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\France_NonWC_F"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="World_Cup\France_NonWC_F"		pads="Tournaments\European_France"/>
+		<Super14 		ads="World_Cup\France_NonWC_F"		pads="Standard\Perpignan"/>
 	</stadium>
 	<stadium name="perth.night">
 		<default 		ads="Scrolling\Australia_Scrolling"	pads="Standard\Perth"/>
@@ -584,28 +597,33 @@
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_France"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 		<SixNations 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_France"/>
+		<Super14 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_France"/>
 	</stadium>
 	<stadium name="stadedefrance.night">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_France"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 		<SixNations 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_France"/>
+		<Super14 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_France"/>
 	</stadium>
 	<stadium name="stadedefrance.overcast">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_France"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 		<SixNations 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_France"/>
+		<Super14 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_France"/>
 	</stadium>
 	<stadium name="stadedegerland.night">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_Gerland"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\France_NonWC"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="World_Cup\France_NonWC"		pads="Tournaments\European_France"/>
+		<Super14 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_Gerland"/>
 	</stadium>
 	<stadium name="stadedegerland.overcast">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_Gerland"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\France_NonWC"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="World_Cup\France_NonWC"		pads="Tournaments\European_France"/>
+		<Super14 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_Gerland"/>
 	</stadium>
 	<stadium name="StadeDeLaBeaujoire.overcast">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_la_Beaujoire"/>
@@ -616,30 +634,35 @@
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\France_NonWC"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="World_Cup\France_NonWC"		pads="Tournaments\European_France"/>
+		<Super14 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_Municipal"/>
 	</stadium>
 	<stadium name="StadeMunicipal.overcast">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_Municipal"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\France_NonWC"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="World_Cup\France_NonWC"		pads="Tournaments\European_France"/>
+		<Super14 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_Municipal"/>
 	</stadium>
 	<stadium name="stadevelodrome.day">
 		<default 		ads="Standard\France_Standard"		pads="Standard\Stade_Velodrome"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="Standard\France_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
+		<Super14 		ads="Standard\France_Standard"		pads="Standard\Stade_Velodrome"/>
 	</stadium>
 	<stadium name="stadevelodrome.night">
 		<default 		ads="Standard\France_Standard"		pads="Standard\Stade_Velodrome"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="Standard\France_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
+		<Super14 		ads="Standard\France_Standard"		pads="Standard\Stade_Velodrome"/>
 	</stadium>
 	<stadium name="stadevelodrome.overcast">
 		<default 		ads="Standard\France_Standard"		pads="Standard\Stade_Velodrome"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="Standard\France_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
+		<Super14 		ads="Standard\France_Standard"		pads="Standard\Stade_Velodrome"/>
 	</stadium>
 	<stadium name="stadiumaustralia.night">
 		<default 		ads="Scrolling\Australia_Scrolling"	pads="Standard\Stadium_Australia"/>
@@ -880,12 +903,14 @@
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\France_NonWC"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="World_Cup\France_NonWC"		pads="Tournaments\European"/>
+		<Super14 		ads="World_Cup\France_NonWC"		pads="Standard\Brive"/>
 	</stadium>
 	<stadium name="Brive.night">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Brive"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\France_NonWC"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="World_Cup\France_NonWC"		pads="Tournaments\European"/>
+		<Super14 		ads="World_Cup\France_NonWC"		pads="Standard\Brive"/>
 	</stadium>
 	<stadium name="Viadana.day">
 		<default 		ads="Standard\Italy_Standard"		pads="Standard\Viadana"/>
@@ -1011,24 +1036,28 @@
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="Standard\France_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
+		<Super14 		ads="Standard\France_Standard"		pads="Standard\Le_Parc"/>
 	</stadium>
 	<stadium name="Yves.night">
 		<default 		ads="Standard\France_Standard"		pads="Standard\Le_Parc"/>
 		<WorldCup 		ads="World_Cup\World_Cup"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="Standard\France_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
+		<Super14 		ads="Standard\France_Standard"		pads="Standard\Le_Parc"/>
 	</stadium>
 	<stadium name="Felix.day">
 		<default 		ads="World_Cup\France_NonWC_F"		pads="Standard\Le_Parc"/>
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\France_NonWC_F"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="World_Cup\France_NonWC_F"		pads="Tournaments\European_France"/>
+		<Super14 		ads="World_Cup\France_NonWC_F"		pads="Standard\Le_Parc"/>
 	</stadium>
 	<stadium name="Felix.night">
 		<default 		ads="World_Cup\France_NonWC_F"		pads="Standard\Le_Parc"/>
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\France_NonWC_F"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="World_Cup\France_NonWC_F"		pads="Tournaments\European_France"/>
+		<Super14 		ads="World_Cup\France_NonWC_F"		pads="Standard\Le_Parc"/>
 	</stadium>
 	<stadium name="Thomond.day">
 		<default 		ads="Standard\Ireland_Standard"		pads="Standard\Leinster"/>
@@ -1053,6 +1082,7 @@
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="Standard\France_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
+		<Super14 		ads="Standard\France_Standard"		pads="Standard\LaRochelle"/>
 	</stadium>
 		<stadium name="Edinburgh.overcast">
 		<default 		ads="Standard\Scotland_Standard"	pads="Standard\Edinburgh"/>
@@ -1065,33 +1095,39 @@
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="Standard\France_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
+		<Super14 		ads="Standard\France_Standard"		pads="Standard\Stade_de_France"/>
 	</stadium>
 	<stadium name="Nice.day">
 		<default 		ads="Standard\France_Standard"		pads="Standard\Stade_de_France"/>
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="Standard\France_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
+		<Super14 		ads="Standard\France_Standard"		pads="Standard\Stade_de_France"/>
 	</stadium>
 	<stadium name="Lille.night">
 		<default 		ads="Standard\France_Standard"		pads="Standard\Stade_de_France"/>
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="Standard\France_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
+		<Super14 		ads="Standard\France_Standard"		pads="Standard\Stade_de_France"/>
 	</stadium>
 	<stadium name="stetienne.overcast">
 		<default 		ads="World_Cup\France_NonWC"		pads="Standard\Stade_de_France"/>
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="World_Cup\France_NonWC"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="World_Cup\France_NonWC"		pads="Tournaments\European_France"/>
+		<Super14 		ads="Standard\France_Standard"		pads="Standard\Stade_de_France"/>
 	</stadium>
 	<stadium name="Bordeaux.overcast">
 		<default 		ads="Standard\France_Standard"		pads="Standard\Stade_de_France"/>
 		<WorldCup 		ads="World_Cup\World_Cup_F"		pads="Tournaments\World_Cup"/>
 		<WorldLeague		ads="Standard\France_Standard"		pads="Tournaments\World_League"/>
 		<EuropeanTrophy		ads="Standard\France_Standard"		pads="Tournaments\European_France"/>
+		<Super14 		ads="Standard\France_Standard"		pads="Standard\Stade_de_France"/>
 	</stadium>
 	<stadium name="Tokyo.day">
 		<default 		ads="Standard\Japan_Standard"	pads="Standard\Japan"/>
+		<Super14 		ads="Standard\Japan_Standard"	pads="Standard\Japan"/>
 	</stadium>
 </stadiums>
 

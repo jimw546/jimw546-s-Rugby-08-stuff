@@ -122,6 +122,7 @@
 		<stadium Index="25" Active="yes" CodeId="STA_IRE_DUBLIN" StadiumName="Aviva Stadium" FileName="lansdownroad" City="2241" HomeTeam="National Team" FeGfxPackage="dublin" Country="1054" IntroScriptAnthem="Anthem_Dublin" IntroScriptNormal="intro_Dublin">
 			<camera Index="58"/>
 			<camera Index="59"/>
+			<camera Index="60"/>
 			<environment breath="off" type="day" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
 			<environment breath="off" type="night" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="None"/>
 			<environment breath="off" type="overcast" DirtType="Grass" ProbabilityDirt="Low" ProbabilityPrecipitation="Low"/>
@@ -179,6 +180,7 @@
 			<camera Index="18"/>
 			<camera Index="19"/>
 			<camera Index="20"/>
+			<environment breath="off" type="day" DirtType="Grass" ProbabilityDirt="Very_Low" ProbabilityPrecipitation="None"/>
 			<environment breath="on" type="overcast" DirtType="Mud" ProbabilityDirt="Medium" ProbabilityPrecipitation="Medium"/>
 		</stadium>
         <stadium Index="37" Active="yes" CodeId="STA_SAF_BLOEMFONTAIN" StadiumName="Free State Stadium" FileName="bloemfontain" City="2257" HomeTeam="Cheetahs" FeGfxPackage="bloemfontain" Country="1063">
