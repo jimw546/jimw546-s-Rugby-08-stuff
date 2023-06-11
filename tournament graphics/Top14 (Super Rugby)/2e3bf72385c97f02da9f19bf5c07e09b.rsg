@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no" ?>
+<hbtool>
+    <hbtoolinfo>
+        <creator>Rugby Schedule Generation</creator>
+        <version>v 0.03</version>
+        <created>November 10, 2004</created>
+    </hbtoolinfo>
+    <tournament name="Top 14" rounds="1" teams="14" locations="13" locationdata="\\w2kserver\Programmers\Sean\outbox\Tools\Rugby Schedule Generation\Network Files\locations.xml" teamdata="\\w2kserver\Programmers\Sean\outbox\Tools\Rugby Schedule Generation\Network Files\teams.xml">
+        <locations>
+            <location id="0" alias="La Rochelle" Index="65" />
+            <location id="1" alias="Pau" Index="68" />
+            <location id="2" alias="Lyon" Index="72" />
+            <location id="3" alias="CA Brive" Index="42" />
+            <location id="4" alias="Racing 92" Index="65" />
+            <location id="5" alias="Bordeaux" Index="22" />
+            <location id="6" alias="Castres" Index="23" />
+            <location id="7" alias="Clermont" Index="26" />
+            <location id="8" alias="Toulon" Index="30" />
+            <location id="9" alias="Stade Francais" Index="27" />
+            <location id="10" alias="Toulouse" Index="73" />
+            <location id="11" alias="Montpellier" Index="68" />
+	    <location id="12" alias="Biarritz" Index="20" />
+	    <location id="13" alias="Perpignan" Index="30" />
+
+        </locations>
+        <teams>
+            <team id="0" alias="La Rochelle" Index="14" />
+            <team id="1" alias="Pau" Index="16" />
+            <team id="2" alias="Lyon" Index="19" />
+            <team id="3" alias="CA Brive" Index="26" />
+            <team id="4" alias="Racing 92" Index="52" />
+            <team id="5" alias="Bordeaux" Index="53" />
+            <team id="6" alias="Castres" Index="55" />
+            <team id="7" alias="Clermont" Index="56" />
+            <team id="8" alias="Toulon" Index="57" />
+            <team id="9" alias="Stade Francais" Index="58" />
+            <team id="10" alias="Toulouse" Index="59" />
+            <team id="11" alias="Montpellier" Index="105" />
+            <team id="12" alias="Biarritz" Index="87" />
+            <team id="13" alias="Perpignan" Index="107" />
+        </teams>
+        <round id="0">
+            <pool games="91" id="0">
+                <game id="0" location="11" hometeam="3" awayteam="5" year="2007" month="2" day="2" environment="1" />
+                <game id="1" location="13" hometeam="12" awayteam="6" year="2007" month="2" day="2" environment="0" />
+                <game id="2" location="5" hometeam="8" awayteam="2" year="2007" month="2" day="2" environment="0" />
+                <game id="3" location="8" hometeam="4" awayteam="0" year="2007" month="2" day="3" environment="2" />
+                <game id="4" location="2" hometeam="1" awayteam="7" year="2007" month="2" day="3" environment="1" />
+                <game id="5" location="5" hometeam="9" awayteam="11" year="2007" month="2" day="3" environment="1" />
+                <game id="6" location="3" hometeam="13" awayteam="10" year="2007" month="2" day="3" environment="1" />
+                
+                <game id="7" location="8" hometeam="4" awayteam="7" year="2007" month="2" day="9" environment="2" />
+                <game id="8" location="12" hometeam="10" awayteam="12" year="2007" month="2" day="9" environment="0" />
+                <game id="9" location="5" hometeam="9" awayteam="2" year="2007" month="2" day="9" environment="0" />
+                <game id="10" location="4" hometeam="5" awayteam="1" year="2007" month="2" day="10" environment="1" />
+                <game id="11" location="0" hometeam="0" awayteam="3" year="2007" month="2" day="10" environment="1" />
+                <game id="12" location="5" hometeam="11" awayteam="13" year="2007" month="2" day="10" environment="1" />
+                <game id="13" location="5" hometeam="8" awayteam="6" year="2007" month="2" day="10" environment="1" />
+              
+                <game id="14" location="12" hometeam="10" awayteam="4" year="2007" month="2" day="16" environment="0" />
+                <game id="15" location="5" hometeam="11" awayteam="12" year="2007" month="2" day="16" environment="1" />
+                <game id="16" location="2" hometeam="1" awayteam="0" year="2007" month="2" day="17" environment="0" />
+                <game id="17" location="7" hometeam="7" awayteam="3" year="2007" month="2" day="17" environment="1" />
+                <game id="18" location="3" hometeam="13" awayteam="2" year="2007" month="2" day="17" environment="0" />
+                <game id="19" location="5" hometeam="8" awayteam="5" year="2007" month="2" day="17" environment="1" />
+                <game id="20" location="5" hometeam="9" awayteam="6" year="2007" month="2" day="17" environment="0" />
+                 
+                <game id="21" location="7" hometeam="7" awayteam="0" year="2007" month="2" day="23" environment="1" />
+                <game id="22" location="9" hometeam="6" awayteam="10" year="2007" month="2" day="24" environment="1" />
+                <game id="23" location="11" hometeam="3" awayteam="1" year="2007" month="2" day="24" environment="1" />
+                <game id="24" location="13" hometeam="12" awayteam="8" year="2007" month="2" day="24" environment="1" />
+                <game id="25" location="5" hometeam="11" awayteam="4" year="2007" month="2" day="24" environment="1" />
+                <game id="26" location="3" hometeam="13" awayteam="5" year="2007" month="2" day="24" environment="0" />
+                
+		<game id="27" location="11" hometeam="3" awayteam="6" year="2007" month="3" day="2" environment="1" />
+                <game id="28" location="1" hometeam="2" awayteam="12" year="2007" month="3" day="2" environment="1" />
+                <game id="29" location="3" hometeam="13" awayteam="4" year="2007" month="3" day="2" environment="0" />
+                <game id="30" location="7" hometeam="7" awayteam="10" year="2007" month="3" day="3" environment="1" />
+                <game id="31" location="0" hometeam="0" awayteam="11" year="2007" month="3" day="3" environment="1" />
+                <game id="32" location="2" hometeam="1" awayteam="8" year="2007" month="3" day="3" environment="0" />
+                <game id="33" location="5" hometeam="9" awayteam="5" year="2007" month="3" day="3" environment="0" />
+	  
+		<game id="34" location="9" hometeam="6" awayteam="1" year="2007" month="3" day="9" environment="2" />
+		<game id="35" location="0" hometeam="0" awayteam="10" year="2007" month="3" day="9" environment="1" />
+                <game id="36" location="13" hometeam="12" awayteam="7" year="2007" month="3" day="9" environment="1" />
+                <game id="37" location="11" hometeam="3" awayteam="8" year="2007" month="3" day="10" environment="1" />
+                <game id="38" location="1" hometeam="2" awayteam="11" year="2007" month="3" day="10" environment="1" />
+                <game id="39" location="3" hometeam="13" awayteam="9" year="2007" month="3" day="10" environment="0" />
+               
+			   
+		<game id="40" location="8" hometeam="4" awayteam="8" year="2007" month="3" day="16" environment="2" />
+                <game id="41" location="13" hometeam="12" awayteam="1" year="2007" month="3" day="16" environment="1" />
+                <game id="42" location="4" hometeam="5" awayteam="11" year="2007" month="3" day="17" environment="0" />
+                <game id="43" location="1" hometeam="2" awayteam="10" year="2007" month="3" day="17" environment="1" />
+                <game id="44" location="3" hometeam="13" awayteam="0" year="2007" month="3" day="17" environment="0" />
+                <game id="45" location="5" hometeam="9" awayteam="7" year="2007" month="3" day="17" environment="0" />
+           
+		   
+		<game id="46" location="11" hometeam="3" awayteam="2" year="2007" month="3" day="23" environment="1" />
+                <game id="47" location="9" hometeam="6" awayteam="11" year="2007" month="3" day="24" environment="2" />
+                <game id="48" location="4" hometeam="5" awayteam="10" year="2007" month="3" day="24" environment="1" />
+                <game id="49" location="2" hometeam="1" awayteam="4" year="2007" month="3" day="24" environment="0" />
+                <game id="50" location="5" hometeam="9" awayteam="0" year="2007" month="3" day="24" environment="0" />
+                <game id="51" location="5" hometeam="8" awayteam="7" year="2007" month="3" day="24" environment="1" />
+                
+		<game id="52" location="9" hometeam="6" awayteam="13" year="2007" month="3" day="30" environment="2" />
+                <game id="53" location="13" hometeam="12" awayteam="9" year="2007" month="3" day="30" environment="1" />
+                <game id="54" location="7" hometeam="7" awayteam="11" year="2007" month="3" day="31" environment="1" />
+                <game id="55" location="8" hometeam="4" awayteam="3" year="2007" month="3" day="31" environment="2" />
+                <game id="56" location="1" hometeam="2" awayteam="5" year="2007" month="3" day="31" environment="1" />
+                <game id="57" location="5" hometeam="8" awayteam="0" year="2007" month="3" day="31" environment="0" />
+                
+				
+		<game id="58" location="11" hometeam="3" awayteam="13" year="2007" month="4" day="6" environment="1" />
+                <game id="59" location="9" hometeam="6" awayteam="4" year="2007" month="4" day="7" environment="2" />
+                <game id="60" location="4" hometeam="5" awayteam="12" year="2007" month="4" day="7" environment="0" />
+                <game id="61" location="2" hometeam="1" awayteam="9" year="2007" month="4" day="7" environment="0" />
+                <game id="62" location="12" hometeam="10" awayteam="8" year="2007" month="4" day="7" environment="0" />
+                <game id="63" location="0" hometeam="0" awayteam="2" year="2007" month="4" day="8" environment="1" />
+
+
+		<game id="64" location="7" hometeam="7" awayteam="13" year="2007" month="4" day="13" environment="1" />
+                <game id="65" location="8" hometeam="4" awayteam="12" year="2007" month="4" day="14" environment="2" />
+                <game id="66" location="9" hometeam="6" awayteam="5" year="2007" month="4" day="14" environment="1" />
+                <game id="67" location="11" hometeam="3" awayteam="9" year="2007" month="4" day="14" environment="1" />
+                <game id="68" location="1" hometeam="2" awayteam="1" year="2007" month="4" day="14" environment="1" />
+                <game id="69" location="5" hometeam="11" awayteam="10" year="2007" month="4" day="14" environment="1" />
+                
+				
+		<game id="70" location="4" hometeam="5" awayteam="7" year="2007" month="4" day="20" environment="1" />
+                <game id="71" location="0" hometeam="0" awayteam="12" year="2007" month="4" day="20" environment="1" />
+                <game id="72" location="2" hometeam="1" awayteam="13" year="2007" month="4" day="21" environment="0" />
+                <game id="73" location="8" hometeam="4" awayteam="9" year="2007" month="4" day="21" environment="2" />
+                <game id="74" location="1" hometeam="2" awayteam="6" year="2007" month="4" day="21" environment="1" />
+                <game id="75" location="5" hometeam="8" awayteam="11" year="2007" month="4" day="21" environment="0" />
+                <game id="76" location="12" hometeam="10" awayteam="3" year="2007" month="4" day="21" environment="0" />
+               
+		<game id="77" location="7" hometeam="7" awayteam="6" year="2007" month="4" day="27" environment="1" />
+                <game id="78" location="1" hometeam="2" awayteam="4" year="2007" month="4" day="27" environment="1" />
+                <game id="79" location="13" hometeam="12" awayteam="13" year="2007" month="4" day="27" environment="1" />
+                <game id="80" location="5" hometeam="11" awayteam="3" year="2007" month="4" day="27" environment="1" />
+                <game id="81" location="0" hometeam="0" awayteam="5" year="2007" month="4" day="28" environment="1" />
+                <game id="82" location="5" hometeam="9" awayteam="8" year="2007" month="4" day="28" environment="0" />
+                <game id="83" location="12" hometeam="10" awayteam="1" year="2007" month="4" day="28" environment="0" />
+                
+		<game id="84" location="13" hometeam="12" awayteam="3" year="2007" month="5" day="4" environment="1" />
+                <game id="85" location="4" hometeam="5" awayteam="4" year="2007" month="5" day="4" environment="0" />
+                <game id="86" location="9" hometeam="6" awayteam="0" year="2007" month="5" day="5" environment="1" />
+                <game id="87" location="7" hometeam="7" awayteam="2" year="2007" month="5" day="5" environment="1" />
+                <game id="88" location="5" hometeam="8" awayteam="13" year="2007" month="5" day="5" environment="0" />
+                <game id="89" location="12" hometeam="10" awayteam="9" year="2007" month="5" day="5" environment="0" />
+                <game id="90" location="5" hometeam="11" awayteam="1" year="2007" month="5" day="5" environment="1" />
+            </pool>
+        </round>
+    </tournament>
+</hbtool>
