@@ -130,6 +130,7 @@
 <stadium name="welfordroad.cold"	 	splashes="180" atmosphere="10" stadium="575" pins="15" flares="1" flashes="1800" floods="1" sun_flares="1"/>
 <stadium name="wellington.night" 		splashes="1" atmosphere="15" stadium="145" pins="95" flares="1" flashes="5" floods="1" sun_flares="1"/>
 <stadium name="Worcester.day"			splashes="1" atmosphere="10" stadium="35" pins="85" flares="10" flashes="5" floods="1" sun_flares="15"/>
+<stadium name="Worcester.night"			splashes="1" atmosphere="10" stadium="35" pins="85" flares="10" flashes="5" floods="1" sun_flares="15"/>
 <stadium name="albany.day" 		        splashes="1" atmosphere="1" stadium="1" pins="1" flares="1" flashes="4" floods="1" sun_flares="15"/>
 <stadium name="albany.night" 		        splashes="180" atmosphere="16" stadium="150" pins="80" flares="1" flashes="5" floods="1" sun_flares="1"/>
 <stadium name="Invercargill.day" 		splashes="1" atmosphere="1" stadium="1" pins="1" flares="1" flashes="8" floods="1" sun_flares="15"/>
