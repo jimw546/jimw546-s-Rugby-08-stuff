@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no" ?>
+<hbtool>
+    <hbtoolinfo>
+        <creator>Rugby Schedule Generation</creator>
+        <version>v 0.03</version>
+        <created>November 09, 2004</created>
+    </hbtoolinfo>
+    <tournament name="AUS/SAF Tour" rounds="1" teams="6" locations="4" locationdata="\\w2kserver\Programmers\Sean\outbox\Tools\Rugby Schedule Generation\Network Files\locations.xml" teamdata="\\w2kserver\Programmers\Sean\outbox\Tools\Rugby Schedule Generation\Network Files\teams.xml">
+        <locations>
+            <location id="0" alias="Australia Stadium" Index="1" />
+            <location id="1" alias="Canberra" Index="4" />
+            <location id="2" alias="Brisbane" Index="2" />
+            <location id="3" alias="Sydney" Index="3" />
+           	<location id="4" alias="Perth" Index="31" />
+           	<location id="5" alias="Melbourne" Index="61" />
+           	<location id="6" alias="Dublin" Index="25" />
+        </locations>
+        <teams>
+            <team id="0" alias="Australia" Index="2" />
+            <team id="1" alias="The Lions" Index="101" />
+            <team id="2" alias="Brumbies" Index="28" />
+            <team id="3" alias="Reds" Index="30" />
+            <team id="4" alias="Waratahs" Index="29" />
+            <team id="5" alias="Argentina" Index="1" />
+            <team id="6" alias="Western Force" Index="31" />
+        </teams>
+        <round id="0">
+            <pool games="8" id="0">
+                <game id="0" location="6" hometeam="5" awayteam="1" year="2013" month="6" day="5" environment="0" />
+                <game id="1" location="4" hometeam="6" awayteam="1" year="2013" month="6" day="8" environment="0" />
+                <game id="2" location="2" hometeam="3" awayteam="1" year="2013" month="6" day="11" environment="0" />
+                <game id="3" location="3" hometeam="4" awayteam="1" year="2013" month="6" day="15" environment="0" />
+                <game id="4" location="1" hometeam="2" awayteam="1" year="2013" month="6" day="18" environment="0" />
+                <game id="5" location="2" hometeam="0" awayteam="1" year="2013" month="6" day="22" environment="0" />
+                <game id="6" location="5" hometeam="0" awayteam="1" year="2013" month="6" day="29" environment="0" />
+                <game id="7" location="0" hometeam="0" awayteam="1" year="2013" month="7" day="6" environment="0" />
+            </pool>
+        </round>
+    </tournament>
+</hbtool>
